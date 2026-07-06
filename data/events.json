@@ -1,0 +1,149 @@
+[
+  {
+    "placeId": "seoul-001",
+    "title": "어메이징 타일랜드: 태국미술명품전",
+    "start": "2026-06-23",
+    "end": "2026-09-06",
+    "url": "https://www.museum.go.kr"
+  },
+  {
+    "placeId": "seoul-001",
+    "title": "우리들의 밥상",
+    "start": "2026-07-01",
+    "end": "2026-10-25",
+    "url": "https://www.museum.go.kr"
+  },
+  {
+    "placeId": "seoul-002",
+    "title": "다른 공간 안으로: 여성 작가들의 공감각적 환경 1956–1976",
+    "start": "2026-05-05",
+    "end": "2026-11-29",
+    "url": "https://www.leeumhoam.org/leeum/exhibition/93"
+  },
+  {
+    "placeId": "gyeonggi-005",
+    "title": "지모마커넥트",
+    "start": "2026-03-26",
+    "end": "2026-08-17",
+    "url": "https://gmoma.ggcf.kr/exhibitions"
+  },
+  {
+    "placeId": "busan-001",
+    "title": "코뿔소와 유니콘",
+    "start": "2026-04-30",
+    "end": "2026-07-19",
+    "url": "https://www.busan.go.kr/moca/exhibition01"
+  },
+  {
+    "placeId": "daegu-001",
+    "title": "앤디 워홀: 예술을 팔다",
+    "start": "2026-07-03",
+    "end": "2026-10-25",
+    "url": "https://artmuseum.daegu.go.kr/exhibition/exhibition01.html"
+  },
+  {
+    "placeId": "daegu-002",
+    "title": "우리 옷을 그리다: 권오창 화백 기증 복식인물화",
+    "start": "2026-07-07",
+    "end": "2026-09-27",
+    "url": "https://daegu.museum.go.kr/prog/speclDspy/01/kor/sub03_02_01/list.do"
+  },
+  {
+    "placeId": "ulsan-002",
+    "title": "2026 국제 하이퍼-리얼리즘: 가장 완벽한 환영",
+    "start": "2026-07-01",
+    "end": "2026-10-31",
+    "url": "https://www.ulsan.go.kr/s/uam/bbs/list.ulsan?bbsId=BBS_0000000000000174&categoryCode1=1&mId=001003001000000000"
+  },
+  {
+    "placeId": "gyeongnam-005",
+    "title": "첨단가야, 과학과 마주하다",
+    "start": "2026-04-14",
+    "end": "2026-07-31",
+    "url": "https://gimhae.museum.go.kr/kr/"
+  },
+  {
+    "placeId": "gwangju-002",
+    "title": "강요배: 시간이 되는 풍경",
+    "start": "2026-05-08",
+    "end": "2026-09-27",
+    "url": "https://artmuse.gwangju.go.kr/"
+  },
+  {
+    "placeId": "gwangju-003",
+    "title": "2026 ACC 뉴스트(NEWST) - Useless but Beautiful: 쓸모없는 그러나 아름다운",
+    "start": "2026-05-01",
+    "end": "2026-07-19",
+    "url": "https://www.acc.go.kr/main/exhibition.do?PID=0202"
+  },
+  {
+    "placeId": "gwangju-003",
+    "title": "ACC 필름앤비디오 - 아시아의 장치들",
+    "start": "2026-05-01",
+    "end": "2026-09-27",
+    "url": "https://www.acc.go.kr/main/contents.do?PID=0203"
+  },
+  {
+    "placeId": "gwangju-003",
+    "title": "2026 ACC 주제기획전 - 코스모 아시아 피플: 행성 시대 피플을 재발명하기",
+    "start": "2026-05-01",
+    "end": "2026-08-23",
+    "url": "https://www.acc.go.kr/main/contents.do?PID=0203"
+  },
+  {
+    "placeId": "daejeon-003",
+    "title": "시대와 함께한 예술가, 이응노 (상설전)",
+    "start": "2026-01-01",
+    "end": "2026-12-31",
+    "url": "https://www.leeungnomuseum.or.kr/"
+  },
+  {
+    "placeId": "jeonnam-002",
+    "title": "쿤 반 덴 브룩 《지구의 피부》",
+    "start": "2026-04-07",
+    "end": "2026-07-19",
+    "url": "https://artmuseum.jeonnam.go.kr"
+  },
+  {
+    "placeId": "jeonbuk-002",
+    "title": "피카소 도예: 발로리스의 여름",
+    "start": "2026-07-10",
+    "end": "2026-10-11",
+    "url": "https://www.jma.go.kr"
+  },
+  {
+    "placeId": "jeonnam-001",
+    "title": "나주 모던시대, 어느 선비의 안목이 머문 자리 - 예술과 일상의 균형",
+    "start": "2026-06-23",
+    "end": "2026-12-31",
+    "url": "https://naju.museum.go.kr"
+  },
+  {
+    "placeId": "gyeongbuk-001",
+    "title": "황룡사, 부처의 사리를 모시다 (황룡봉불)",
+    "start": "2026-06-12",
+    "end": "2026-10-11",
+    "url": "https://gyeongju.museum.go.kr"
+  },
+  {
+    "placeId": "gyeongbuk-003",
+    "title": "장 줄리앙: 아차차 Raté",
+    "start": "2026-05-29",
+    "end": "2027-09-05",
+    "url": "http://wooyangmuseum.org"
+  },
+  {
+    "placeId": "jeju-001",
+    "title": "찰나의 영원, 제주를 담다 - 고 김영갑 작가 기증 사진전",
+    "start": "2026-06-16",
+    "end": "2027-03-01",
+    "url": "https://jeju.museum.go.kr"
+  },
+  {
+    "placeId": "jeju-002",
+    "title": "경계 위의 그녀",
+    "start": "2026-04-07",
+    "end": "2026-08-02",
+    "url": "https://www.jeju.go.kr/jmoa/"
+  }
+]

@@ -1,0 +1,21 @@
+@import "tailwindcss";
+@import "pretendard/dist/web/static/pretendard.css";
+
+:root {
+  --color-navy: #1a2332;
+  --color-gold: #c9a227;
+  --color-ivory: #faf8f4;
+}
+
+@theme inline {
+  --font-sans: "Pretendard", ui-sans-serif, system-ui, sans-serif;
+  --color-navy: var(--color-navy);
+  --color-gold: var(--color-gold);
+  --color-ivory: var(--color-ivory);
+}
+
+body {
+  background: var(--color-ivory);
+  color: var(--color-navy);
+  font-family: var(--font-sans);
+}
