@@ -1,5 +1,8 @@
+"use client";
+
 import SectionHeading from "@/components/SectionHeading";
 import PlaceCard from "@/components/PlaceCard";
+import Carousel from "@/components/Carousel";
 import { getFeaturedPlaces } from "@/lib/data";
 
 export default function FeaturedPlaces() {
@@ -14,11 +17,12 @@ export default function FeaturedPlaces() {
         subtitle="전국에서 꼭 한번쯤 들러볼 만한 상징적인 문화공간을 모았어요."
         align="left"
       />
-      <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
-        {featured.map((place) => (
-          <PlaceCard key={place.id} place={place} />
-        ))}
-      </div>
+      <Carousel
+        items={featured}
+        cardWidth={280}
+        keyFor={(place) => place.id}
+        renderItem={(place) => <PlaceCard place={place} />}
+      />
     </section>
   );
 }
