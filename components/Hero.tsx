@@ -15,8 +15,13 @@ export default function Hero() {
   }
 
   return (
-    <section className="bg-navy px-4 py-20 text-center sm:px-6 sm:py-28">
-      <div className="mx-auto flex max-w-3xl flex-col items-center gap-6">
+    <section className="relative overflow-hidden bg-navy px-4 py-20 text-center sm:px-6 sm:py-28">
+      <div
+        aria-hidden
+        className="hero-panel-grid pointer-events-none absolute inset-0"
+      />
+      <div className="pointer-events-none absolute inset-0 bg-gradient-to-b from-navy/60 via-navy/80 to-navy" />
+      <div className="relative mx-auto flex max-w-3xl flex-col items-center gap-6">
         <span className="rounded-full bg-gold/15 px-4 py-1 text-sm font-semibold text-gold">
           전국 문화공간 안내
         </span>
