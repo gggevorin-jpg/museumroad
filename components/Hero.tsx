@@ -3,6 +3,7 @@
 import { useRouter } from "next/navigation";
 import { Search } from "lucide-react";
 import { useState } from "react";
+import ParticleBackground from "@/components/ParticleBackground";
 
 export default function Hero() {
   const router = useRouter();
@@ -16,18 +17,26 @@ export default function Hero() {
 
   return (
     <section className="relative overflow-hidden bg-navy px-4 py-20 text-center sm:px-6 sm:py-28">
-      <div aria-hidden className="hero-panel-grid pointer-events-none" />
-      <div aria-hidden className="hero-glow pointer-events-none" />
-      <div className="pointer-events-none absolute inset-0 bg-gradient-to-b from-navy/35 via-navy/55 to-navy/90" />
+      <ParticleBackground />
       <div className="relative mx-auto flex max-w-3xl flex-col items-center gap-6">
         <span className="rounded-full bg-gold/15 px-4 py-1 text-sm font-semibold text-gold shadow-[0_2px_20px_rgba(0,0,0,0.35)]">
           전국 문화공간 안내
         </span>
-        <h1 className="text-3xl font-bold text-ivory drop-shadow-[0_4px_16px_rgba(0,0,0,0.55)] sm:text-5xl">
-          박물관·미술관·건축물,
-          <br />
-          한 곳에서 찾아보세요
-        </h1>
+        <div>
+          <h1 className="text-3xl font-bold text-ivory drop-shadow-[0_4px_16px_rgba(0,0,0,0.55)] sm:text-5xl">
+            박물관·미술관·건축물,
+            <br />
+            한 곳에서 찾아보세요
+          </h1>
+          <h1
+            aria-hidden
+            className="hero-reflection select-none text-3xl font-bold text-ivory sm:text-5xl"
+          >
+            박물관·미술관·건축물,
+            <br />
+            한 곳에서 찾아보세요
+          </h1>
+        </div>
         <p className="text-sm text-ivory/70 drop-shadow-[0_2px_10px_rgba(0,0,0,0.5)] sm:text-base">
           전국 17개 시도의 문화공간과 진행 중인 전시 일정을 뮤지엄로드에서 확인하세요.
         </p>

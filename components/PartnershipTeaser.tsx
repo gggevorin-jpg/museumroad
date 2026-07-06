@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Building2, Handshake, MapPinned } from "lucide-react";
 import SectionHeading from "@/components/SectionHeading";
+import ParticleBackground from "@/components/ParticleBackground";
 
 const CARDS = [
   {
@@ -22,18 +23,20 @@ const CARDS = [
 
 export default function PartnershipTeaser() {
   return (
-    <section className="bg-navy px-4 py-16 text-ivory sm:px-6">
-      <div className="mx-auto max-w-6xl">
+    <section className="relative overflow-hidden bg-navy px-4 py-16 text-ivory sm:px-6">
+      <ParticleBackground />
+      <div className="relative mx-auto max-w-6xl">
         <SectionHeading
           badge="함께해요"
           title="뮤지엄로드와 협업하기"
           subtitle="문화공간 등록부터 콘텐츠·지역 협력까지, 다양한 방식으로 함께할 수 있어요."
+          theme="dark"
         />
         <div className="grid gap-5 sm:grid-cols-3">
           {CARDS.map(({ icon: Icon, title, desc }) => (
             <div
               key={title}
-              className="flex flex-col gap-3 rounded-2xl border border-ivory/10 bg-ivory/5 p-6"
+              className="flex flex-col gap-3 rounded-2xl border border-ivory/10 bg-ivory/5 p-6 backdrop-blur-sm"
             >
               <Icon size={28} className="text-gold" />
               <h3 className="font-bold">{title}</h3>

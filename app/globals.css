@@ -20,87 +20,127 @@ body {
   font-family: var(--font-sans);
 }
 
-@keyframes hero-approach {
+@keyframes particle-drift-1 {
   0% {
-    transform: scale(2.2) translateZ(0);
-    opacity: 0;
-  }
-  35% {
-    opacity: 1;
+    background-position: 0 0;
   }
   100% {
-    transform: scale(1.28) translateZ(0);
-    opacity: 1;
+    background-position: 220px -340px;
   }
 }
 
-@keyframes hero-drift {
-  0%,
-  100% {
-    transform: scale(1.28) translateY(0) translateX(0);
+@keyframes particle-drift-2 {
+  0% {
+    background-position: 0 0;
   }
-  50% {
-    transform: scale(1.38) translateY(-2%) translateX(1%);
+  100% {
+    background-position: -180px -260px;
+  }
+}
+
+@keyframes particle-drift-3 {
+  0% {
+    background-position: 0 0;
+  }
+  100% {
+    background-position: 140px -420px;
   }
 }
 
 @keyframes hero-glow {
   0%,
   100% {
-    opacity: 0.55;
-    transform: translate(-10%, -10%) scale(1);
+    opacity: 0.5;
+    transform: translate(-8%, -8%) scale(1);
   }
   50% {
-    opacity: 0.9;
-    transform: translate(10%, 5%) scale(1.15);
+    opacity: 0.85;
+    transform: translate(8%, 4%) scale(1.1);
   }
 }
 
-.hero-panel-grid {
+@keyframes text-shimmer {
+  0%,
+  100% {
+    opacity: 0.16;
+  }
+  50% {
+    opacity: 0.28;
+  }
+}
+
+.hero-sky {
   position: absolute;
-  inset: -10%;
+  inset: 0;
+  background: linear-gradient(
+    to bottom,
+    #0e1420 0%,
+    #1a2332 45%,
+    #23200f 100%
+  );
+}
+
+.hero-particles {
+  position: absolute;
+  inset: -20% -10%;
   background-image:
-    repeating-linear-gradient(
-      0deg,
-      rgba(201, 162, 39, 0.28) 0px,
-      rgba(201, 162, 39, 0.28) 1.5px,
-      transparent 1.5px,
-      transparent 46px
-    ),
-    repeating-linear-gradient(
-      90deg,
-      rgba(201, 162, 39, 0.2) 0px,
-      rgba(201, 162, 39, 0.2) 1.5px,
-      transparent 1.5px,
-      transparent 68px
-    ),
-    repeating-linear-gradient(
-      0deg,
-      rgba(250, 248, 244, 0.05) 0px,
-      rgba(250, 248, 244, 0.05) 23px,
-      transparent 23px,
-      transparent 46px
-    );
-  animation: hero-approach 1.8s cubic-bezier(0.16, 1, 0.3, 1) both,
-    hero-drift 16s ease-in-out 1.8s infinite;
+    radial-gradient(rgba(250, 248, 244, 0.85) 1px, transparent 1.6px),
+    radial-gradient(rgba(201, 162, 39, 0.8) 1.4px, transparent 2px),
+    radial-gradient(rgba(250, 248, 244, 0.4) 1px, transparent 1.6px);
+  background-size: 160px 160px, 240px 240px, 90px 90px;
+  background-repeat: repeat;
+  animation: particle-drift-1 40s linear infinite alternate;
+  opacity: 0.8;
+}
+
+.hero-particles.layer-2 {
+  background-image:
+    radial-gradient(rgba(201, 162, 39, 0.6) 1.2px, transparent 1.8px),
+    radial-gradient(rgba(250, 248, 244, 0.55) 1px, transparent 1.5px);
+  background-size: 130px 130px, 200px 200px;
+  animation: particle-drift-2 55s linear infinite alternate;
+  opacity: 0.6;
+}
+
+.hero-particles.layer-3 {
+  background-image: radial-gradient(
+    rgba(250, 248, 244, 0.3) 0.8px,
+    transparent 1.4px
+  );
+  background-size: 60px 60px;
+  animation: particle-drift-3 30s linear infinite alternate;
+  opacity: 0.5;
 }
 
 .hero-glow {
   position: absolute;
   inset: -20%;
   background: radial-gradient(
-    circle at 30% 20%,
-    rgba(201, 162, 39, 0.35),
+    circle at 70% 15%,
+    rgba(201, 162, 39, 0.4),
     transparent 55%
   );
   mix-blend-mode: screen;
-  animation: hero-glow 10s ease-in-out infinite;
+  animation: hero-glow 12s ease-in-out infinite;
+}
+
+.hero-reflection {
+  transform: scaleY(-1);
+  opacity: 0.22;
+  filter: blur(1.5px);
+  -webkit-mask-image: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0.7),
+    transparent 75%
+  );
+  mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7), transparent 75%);
+  animation: text-shimmer 6s ease-in-out infinite;
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .hero-panel-grid,
-  .hero-glow {
+  .hero-particles,
+  .hero-glow,
+  .hero-reflection {
     animation: none;
-    transform: scale(1.15);
   }
 }

@@ -1,9 +1,11 @@
 import Link from "next/link";
+import ParticleBackground from "@/components/ParticleBackground";
 
 export default function Footer() {
   return (
-    <footer className="border-t border-navy/10 bg-navy text-ivory/70">
-      <div className="mx-auto flex max-w-6xl flex-col gap-4 px-4 py-10 sm:px-6">
+    <footer className="relative overflow-hidden border-t border-navy/10 bg-navy text-ivory/70">
+      <ParticleBackground glow={false} />
+      <div className="relative mx-auto flex max-w-6xl flex-col gap-4 px-4 py-10 sm:px-6">
         <div className="text-lg font-bold text-ivory">
           뮤지엄<span className="text-gold">로드</span>
         </div>
