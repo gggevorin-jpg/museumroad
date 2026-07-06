@@ -16,7 +16,7 @@ export default function Hero() {
   }
 
   return (
-    <section className="relative overflow-hidden bg-navy px-4 py-20 text-center sm:px-6 sm:py-28">
+    <section className="relative isolate overflow-hidden bg-navy px-4 py-20 text-center sm:px-6 sm:py-28">
       <ParticleBackground />
       <div className="relative mx-auto flex max-w-3xl flex-col items-center gap-6">
         <span className="rounded-full bg-gold/15 px-4 py-1 text-sm font-semibold text-gold shadow-[0_2px_20px_rgba(0,0,0,0.35)]">

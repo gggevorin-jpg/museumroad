@@ -10,7 +10,7 @@ export default function StatsCounter() {
   ];
 
   return (
-    <section className="mx-auto -mt-10 max-w-5xl px-4 sm:px-6">
+    <section className="relative z-10 mx-auto -mt-10 max-w-5xl px-4 sm:px-6">
       <div className="grid grid-cols-3 gap-4 rounded-2xl bg-white p-6 shadow-lg">
         {stats.map((stat) => (
           <div key={stat.label} className="flex flex-col items-center gap-1 text-center">
