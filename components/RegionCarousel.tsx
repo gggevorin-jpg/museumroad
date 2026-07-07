@@ -23,7 +23,11 @@ const GRADIENTS = [
 function buildShowcase(): ShowcaseItem[] {
   return SIDO_LIST.map((sido) => {
     const places = getPlacesBySido(sido);
-    const place = places.find((p) => p.featured) ?? places[0];
+    const place =
+      places.find((p) => p.featured && p.image) ??
+      places.find((p) => p.image) ??
+      places.find((p) => p.featured) ??
+      places[0];
     return { sido, slug: slugifySido(sido), count: places.length, place };
   }).filter((item): item is ShowcaseItem => !!item.place);
 }
@@ -40,15 +44,28 @@ export default function RegionCarousel() {
           href={`/region/${item.slug}`}
           className="group relative flex h-full flex-col overflow-hidden rounded-2xl border border-navy/10 bg-white shadow-sm"
         >
-          <div
-            className={`flex h-32 flex-col justify-between bg-gradient-to-br p-3 ${
-              GRADIENTS[i % GRADIENTS.length]
-            }`}
-          >
-            <span className="w-fit rounded-full bg-white/90 px-2 py-0.5 text-[11px] font-semibold text-navy">
+          <div className="relative flex h-32 flex-col justify-between overflow-hidden p-3">
+            {item.place.image ? (
+              <>
+                <img
+                  src={item.place.image}
+                  alt={item.place.name}
+                  loading="lazy"
+                  className="absolute inset-0 h-full w-full object-cover transition duration-300 group-hover:scale-105"
+                />
+                <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/10 to-transparent" />
+              </>
+            ) : (
+              <div
+                className={`absolute inset-0 bg-gradient-to-br ${GRADIENTS[i % GRADIENTS.length]}`}
+              />
+            )}
+            <span className="relative w-fit rounded-full bg-white/90 px-2 py-0.5 text-[11px] font-semibold text-navy">
               {TYPE_LABEL[item.place.type]}
             </span>
-            <span className="text-xs font-medium text-ivory/80">대표 · {item.place.name}</span>
+            <span className="relative text-xs font-medium text-ivory/90">
+              대표 · {item.place.name}
+            </span>
           </div>
           <div className="flex flex-col gap-1 p-3">
             <span className="font-bold text-navy group-hover:text-gold transition-colors">

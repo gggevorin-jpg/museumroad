@@ -40,6 +40,7 @@
     { "kind": "카페", "name": "어니언 안국", "walk": "도보 8분" },
     { "kind": "핫플", "name": "북촌한옥마을", "walk": "도보 10분" }
   ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/... (선택, 위키미디어 커먼즈 CC 라이선스 이미지 URL만 사용. 없으면 필드 생략 → 그라데이션 카드로 대체)",
   "featured": true
 }
 ```

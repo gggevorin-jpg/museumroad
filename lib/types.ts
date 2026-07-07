@@ -22,6 +22,7 @@ export interface Place {
   description: string;
   nearby: NearbySpot[];
   featured: boolean;
+  image?: string;
 }
 
 export interface ExhibitionEvent {

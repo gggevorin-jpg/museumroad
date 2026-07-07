@@ -63,10 +63,20 @@ export default async function PlacePage({
     <>
       <Header />
       <main className="flex-1">
-        <div
-          className={`flex h-56 items-end bg-gradient-to-br p-6 sm:h-72 ${GRADIENTS[place.type]}`}
-        >
-          <div className="mx-auto flex w-full max-w-6xl flex-col gap-2">
+        <div className="relative flex h-56 items-end overflow-hidden p-6 sm:h-72">
+          {place.image ? (
+            <>
+              <img
+                src={place.image}
+                alt={place.name}
+                className="absolute inset-0 h-full w-full object-cover"
+              />
+              <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-black/10" />
+            </>
+          ) : (
+            <div className={`absolute inset-0 bg-gradient-to-br ${GRADIENTS[place.type]}`} />
+          )}
+          <div className="relative mx-auto flex w-full max-w-6xl flex-col gap-2">
             <span className="w-fit rounded-full bg-white/90 px-3 py-1 text-xs font-semibold text-navy">
               {TYPE_LABEL[place.type]}
             </span>

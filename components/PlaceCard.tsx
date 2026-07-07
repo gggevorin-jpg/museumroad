@@ -15,10 +15,21 @@ export default function PlaceCard({ place }: { place: Place }) {
       href={`/place/${place.id}`}
       className="group flex flex-col overflow-hidden rounded-2xl border border-navy/10 bg-white shadow-sm transition hover:shadow-lg"
     >
-      <div
-        className={`flex h-36 items-end bg-gradient-to-br p-4 ${GRADIENTS[place.type]}`}
-      >
-        <span className="rounded-full bg-white/90 px-3 py-1 text-xs font-semibold text-navy">
+      <div className="relative flex h-36 items-end overflow-hidden p-4">
+        {place.image ? (
+          <>
+            <img
+              src={place.image}
+              alt={place.name}
+              loading="lazy"
+              className="absolute inset-0 h-full w-full object-cover transition duration-300 group-hover:scale-105"
+            />
+            <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-black/10 to-transparent" />
+          </>
+        ) : (
+          <div className={`absolute inset-0 bg-gradient-to-br ${GRADIENTS[place.type]}`} />
+        )}
+        <span className="relative rounded-full bg-white/90 px-3 py-1 text-xs font-semibold text-navy">
           {TYPE_LABEL[place.type]}
         </span>
       </div>

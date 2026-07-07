@@ -30,7 +30,8 @@
         "walk": "도보 3분"
       }
     ],
-    "featured": true
+    "featured": true,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/National_Museum_of_Korea%2C_Seoul_%282%29_%2840236586235%29.jpg/960px-National_Museum_of_Korea%2C_Seoul_%282%29_%2840236586235%29.jpg"
   },
   {
     "id": "seoul-002",
@@ -63,7 +64,8 @@
         "walk": "도보 5분"
       }
     ],
-    "featured": true
+    "featured": true,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Leeum%2C_Samsung_Museum_of_Art.jpg/960px-Leeum%2C_Samsung_Museum_of_Art.jpg"
   },
   {
     "id": "seoul-003",
@@ -129,7 +131,8 @@
         "walk": "도보 5분"
       }
     ],
-    "featured": false
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Dongdaemun_Design_Plaza_at_night%2C_Seoul%2C_Korea.jpg/960px-Dongdaemun_Design_Plaza_at_night%2C_Seoul%2C_Korea.jpg"
   },
   {
     "id": "incheon-001",
@@ -162,7 +165,8 @@
         "walk": "도보 10분"
       }
     ],
-    "featured": false
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Incheon_Art_Flatform_191124001.jpg/960px-Incheon_Art_Flatform_191124001.jpg"
   },
   {
     "id": "incheon-002",
@@ -195,7 +199,8 @@
         "walk": "도보 3분"
       }
     ],
-    "featured": false
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Museum_of_Korea_Emigration_History_in_2016.JPG/960px-Museum_of_Korea_Emigration_History_in_2016.JPG"
   },
   {
     "id": "incheon-003",
@@ -294,7 +299,8 @@
         "walk": "차량 5분"
       }
     ],
-    "featured": false
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/DankookU-Paiknamjun.JPG"
   },
   {
     "id": "gyeonggi-003",
@@ -327,7 +333,8 @@
         "walk": "도보 3분"
       }
     ],
-    "featured": false
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/%ED%99%94%EC%84%B1%ED%96%89%EA%B6%81_%ED%8C%94%EB%8B%AC%EC%82%B0%EC%97%90%EC%84%9C.jpg/960px-%ED%99%94%EC%84%B1%ED%96%89%EA%B6%81_%ED%8C%94%EB%8B%AC%EC%82%B0%EC%97%90%EC%84%9C.jpg"
   },
   {
     "id": "gyeonggi-004",
@@ -360,7 +367,8 @@
         "walk": "도보 5분"
       }
     ],
-    "featured": false
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/TightropewalkerKoreanFolkVillage.jpg"
   },
   {
     "id": "gyeonggi-005",
@@ -393,7 +401,8 @@
         "walk": "도보 3분"
       }
     ],
-    "featured": false
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Gyeonggi_Museum_of_Modern_Art.jpg/960px-Gyeonggi_Museum_of_Modern_Art.jpg"
   },
   {
     "id": "gyeonggi-006",
@@ -426,7 +435,8 @@
         "walk": "도보 2분"
       }
     ],
-    "featured": false
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Silhak_Museum_Logo.png"
   },
   {
     "id": "busan-001",
@@ -492,7 +502,8 @@
         "walk": "도보 8분"
       }
     ],
-    "featured": false
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Busan_museum.JPG/960px-Busan_museum.JPG"
   },
   {
     "id": "busan-003",
@@ -525,7 +536,8 @@
         "walk": "차량 10분"
       }
     ],
-    "featured": false
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/National_Maritime_Museum_in_Busan%2C_South_Korea.jpg"
   },
   {
     "id": "busan-004",
@@ -591,7 +603,8 @@
         "walk": "도보 5분"
       }
     ],
-    "featured": false
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Daegu_Art_Museum.jpg"
   },
   {
     "id": "daegu-002",
@@ -624,7 +637,8 @@
         "walk": "차량 10분"
       }
     ],
-    "featured": false
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Daegu_National_Museum.jpg/960px-Daegu_National_Museum.jpg"
   },
   {
     "id": "daegu-003",
@@ -657,7 +671,8 @@
         "walk": "도보 15분"
       }
     ],
-    "featured": false
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/%EA%B3%84%EC%82%B0%EC%84%B1%EB%8B%B9.jpg/960px-%EA%B3%84%EC%82%B0%EC%84%B1%EB%8B%B9.jpg"
   },
   {
     "id": "ulsan-001",
@@ -822,7 +837,8 @@
         "walk": "도보 10분"
       }
     ],
-    "featured": false
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/The_Jinju_National_Museum.jpg/960px-The_Jinju_National_Museum.jpg"
   },
   {
     "id": "gyeongnam-003",
@@ -888,7 +904,8 @@
         "walk": "도보 5분"
       }
     ],
-    "featured": false
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Yeongnamru_Miryang_Gyeongsangnamdo.JPG/960px-Yeongnamru_Miryang_Gyeongsangnamdo.JPG"
   },
   {
     "id": "gyeongnam-005",
@@ -921,7 +938,8 @@
         "walk": "도보 10분"
       }
     ],
-    "featured": false
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Gimhae_national_museum.JPG/960px-Gimhae_national_museum.JPG"
   },
   {
     "id": "gwangju-001",
@@ -954,7 +972,8 @@
         "walk": "도보 3분"
       }
     ],
-    "featured": true
+    "featured": true,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Gwangju_National_Museum.jpg/960px-Gwangju_National_Museum.jpg"
   },
   {
     "id": "gwangju-002",
@@ -987,7 +1006,8 @@
         "walk": "도보 3분"
       }
     ],
-    "featured": false
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Gwangju_Museum_of_Art.jpg/960px-Gwangju_Museum_of_Art.jpg"
   },
   {
     "id": "gwangju-003",
@@ -1053,7 +1073,8 @@
         "walk": "도보 8분"
       }
     ],
-    "featured": true
+    "featured": true,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/National_Science_Museum_2021.jpg/960px-National_Science_Museum_2021.jpg"
   },
   {
     "id": "daejeon-002",
@@ -1086,7 +1107,8 @@
         "walk": "도보 5분"
       }
     ],
-    "featured": false
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Daejeon_Museum_of_Art.jpg/960px-Daejeon_Museum_of_Art.jpg"
   },
   {
     "id": "daejeon-003",
@@ -1119,7 +1141,8 @@
         "walk": "도보 5분"
       }
     ],
-    "featured": false
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/%EC%9D%B4%EC%9D%91%EB%85%B8_%EB%AF%B8%EC%88%A0%EA%B4%80_Leeungno_Museum.jpg/960px-%EC%9D%B4%EC%9D%91%EB%85%B8_%EB%AF%B8%EC%88%A0%EA%B4%80_Leeungno_Museum.jpg"
   },
   {
     "id": "sejong-001",
@@ -1152,7 +1175,8 @@
         "walk": "차량 5분"
       }
     ],
-    "featured": true
+    "featured": true,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/South_Korea_Presidential_Archives.jpg/960px-South_Korea_Presidential_Archives.jpg"
   },
   {
     "id": "sejong-002",
@@ -1185,7 +1209,8 @@
         "walk": "차량 10분"
       }
     ],
-    "featured": false
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/%EA%B5%AD%EB%A6%BD%EC%84%B8%EC%A2%85%EC%88%98%EB%AA%A9%EC%9B%901.jpg/960px-%EA%B5%AD%EB%A6%BD%EC%84%B8%EC%A2%85%EC%88%98%EB%AA%A9%EC%9B%901.jpg"
   },
   {
     "id": "sejong-003",
@@ -1218,7 +1243,8 @@
         "walk": "도보 15분"
       }
     ],
-    "featured": false
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Sejong_National_Library_east.jpg/960px-Sejong_National_Library_east.jpg"
   },
   {
     "id": "chungbuk-001",
@@ -1251,7 +1277,8 @@
         "walk": "도보 5분"
       }
     ],
-    "featured": true
+    "featured": true,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/%EA%B5%AD%EB%A6%BD%EC%B2%AD%EC%A3%BC%EB%B0%95%EB%AC%BC%EA%B4%80_%EC%9E%85%EA%B5%AC.jpg/960px-%EA%B5%AD%EB%A6%BD%EC%B2%AD%EC%A3%BC%EB%B0%95%EB%AC%BC%EA%B4%80_%EC%9E%85%EA%B5%AC.jpg"
   },
   {
     "id": "chungbuk-002",
@@ -1317,7 +1344,8 @@
         "walk": "차량 5분"
       }
     ],
-    "featured": false
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Beopjusa_Temple_Stay_South_Korea.jpg/960px-Beopjusa_Temple_Stay_South_Korea.jpg"
   },
   {
     "id": "chungnam-001",
@@ -1383,7 +1411,8 @@
         "walk": "도보 5분"
       }
     ],
-    "featured": true
+    "featured": true,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Gongju_National_Museum_2023.jpg/960px-Gongju_National_Museum_2023.jpg"
   },
   {
     "id": "chungnam-003",
@@ -1416,7 +1445,8 @@
         "walk": "도보 10분"
       }
     ],
-    "featured": false
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Sudeoksa_Daeungjeon_20231224_01.jpg/960px-Sudeoksa_Daeungjeon_20231224_01.jpg"
   },
   {
     "id": "chungnam-004",
@@ -1482,7 +1512,8 @@
         "walk": "차량 5분"
       }
     ],
-    "featured": true
+    "featured": true,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Museum_SAN.tif/lossy-page1-960px-Museum_SAN.tif.jpg"
   },
   {
     "id": "gangwon-002",
@@ -1548,7 +1579,8 @@
         "walk": "차량 30분"
       }
     ],
-    "featured": false
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/%EB%B0%95%EC%88%98%EA%B7%BC%EB%AF%B8%EC%88%A0%EA%B4%80-tourgo.jpg/960px-%EB%B0%95%EC%88%98%EA%B7%BC%EB%AF%B8%EC%88%A0%EA%B4%80-tourgo.jpg"
   },
   {
     "id": "gangwon-004",
@@ -1581,7 +1613,8 @@
         "walk": "차량 10분"
       }
     ],
-    "featured": false
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/%EA%B0%95%EB%A6%89%EC%8B%9C%EB%A6%BD%EB%B0%95%EB%AC%BC%EA%B4%80.jpg/960px-%EA%B0%95%EB%A6%89%EC%8B%9C%EB%A6%BD%EB%B0%95%EB%AC%BC%EA%B4%80.jpg"
   },
   {
     "id": "gangwon-005",
@@ -1647,7 +1680,8 @@
         "walk": "차량 10분"
       }
     ],
-    "featured": true
+    "featured": true,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jeonju_National_Museum.jpg/960px-Jeonju_National_Museum.jpg"
   },
   {
     "id": "jeonbuk-002",
@@ -1680,7 +1714,8 @@
         "walk": "차량 15분"
       }
     ],
-    "featured": false
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Jeonbuk_Museum_of_Art%2C_in_Wanju%2C_North_Jeolla_Province%2C_South_Korea_07.jpg/960px-Jeonbuk_Museum_of_Art%2C_in_Wanju%2C_North_Jeolla_Province%2C_South_Korea_07.jpg"
   },
   {
     "id": "jeonbuk-003",
@@ -1713,7 +1748,8 @@
         "walk": "도보 5분"
       }
     ],
-    "featured": true
+    "featured": true,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Jeondong_Catholic_Cathedral_20230408_005.jpg/960px-Jeondong_Catholic_Cathedral_20230408_005.jpg"
   },
   {
     "id": "jeonnam-001",
@@ -1812,7 +1848,8 @@
         "walk": "차량 10분"
       }
     ],
-    "featured": false
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/KOCIS_Korea_Soswaewon_01_%287581350982%29.jpg/960px-KOCIS_Korea_Soswaewon_01_%287581350982%29.jpg"
   },
   {
     "id": "jeonnam-004",
@@ -1845,7 +1882,8 @@
         "walk": "도보 5분"
       }
     ],
-    "featured": false
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Mokpo_Modern_History_Museum_%28Building_1%29_20241005_001.jpg/960px-Mokpo_Modern_History_Museum_%28Building_1%29_20241005_001.jpg"
   },
   {
     "id": "gyeongbuk-001",
@@ -1878,7 +1916,8 @@
         "walk": "도보 15분"
       }
     ],
-    "featured": false
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Korea-Gyeongju.National.Museum-02.jpg/960px-Korea-Gyeongju.National.Museum-02.jpg"
   },
   {
     "id": "gyeongbuk-002",
@@ -1911,7 +1950,8 @@
         "walk": "차량 15분"
       }
     ],
-    "featured": true
+    "featured": true,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Lotus_Flower_Bridge_and_Seven_Treasure_Bridge_at_Bulguksa_in_Gyeongju%2C_Korea.jpg/960px-Lotus_Flower_Bridge_and_Seven_Treasure_Bridge_at_Bulguksa_in_Gyeongju%2C_Korea.jpg"
   },
   {
     "id": "gyeongbuk-003",
@@ -1977,7 +2017,8 @@
         "walk": "차량 5분"
       }
     ],
-    "featured": false
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Korea-Andong-Dosan_Seowon_3025-06.JPG/960px-Korea-Andong-Dosan_Seowon_3025-06.JPG"
   },
   {
     "id": "jeju-001",
@@ -2010,7 +2051,8 @@
         "walk": "도보 10분"
       }
     ],
-    "featured": false
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Jeju_Island_20141129_10_%2815926202611%29.jpg/960px-Jeju_Island_20141129_10_%2815926202611%29.jpg"
   },
   {
     "id": "jeju-002",
@@ -2076,7 +2118,8 @@
         "walk": "차량 3분"
       }
     ],
-    "featured": true
+    "featured": true,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Bontae_Museum.png/960px-Bontae_Museum.png"
   },
   {
     "id": "jeju-004",
