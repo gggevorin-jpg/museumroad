@@ -6240,5 +6240,34 @@
     "featured": false,
     "popularity": "regional",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Seongeup_Historic_Village.jpg/960px-Seongeup_Historic_Village.jpg"
+  },
+  {
+    "id": "gyeongbuk-115",
+    "type": "gallery",
+    "name": "오아르미술관",
+    "sido": "경상북도",
+    "address": "경상북도 경주시 금성로 260-6",
+    "phone": "054-705-5501",
+    "website": "https://oar-museum.com/",
+    "hours": "11:00–20:00 (마지막 입장 19:30)",
+    "closed": "매주 화요일",
+    "fee": "성인 8,000원 / 소인 5,000원 (경주시민 성인 6,000원 / 소인 4,000원, 임산부·현역군인·장애인 3,000원, 10인 이상 단체 10% 할인)",
+    "transit": "경주역·경주시외버스터미널에서 시내버스 이용, 노서동 고분군(대릉원) 인근 하차",
+    "parking": "무료 주차 가능(이용시간 제한 있을 수 있어 방문 전 확인 권장)",
+    "description": "경주 노서동 고분군 옆, 신라 고분과 마주한 사립 현대미술관이다. 경주 출신 컬렉터 김문호 관장이 2005년부터 모아온 국내외 현대미술 소장품 약 600여 점을 중심으로 전시하며, 카페와 루프탑도 갖추고 있다.",
+    "nearby": [
+      {
+        "kind": "핫플",
+        "name": "대릉원",
+        "walk": "도보 3분"
+      },
+      {
+        "kind": "핫플",
+        "name": "황리단길",
+        "walk": "도보 10분"
+      }
+    ],
+    "featured": false,
+    "popularity": "regional"
   }
 ]
