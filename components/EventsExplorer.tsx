@@ -6,6 +6,7 @@ import Link from "next/link";
 import { CalendarDays, Search } from "lucide-react";
 import { events, places, isOngoing, isUpcoming, SIDO_LIST, TYPE_LABEL } from "@/lib/data";
 import type { PlaceType } from "@/lib/types";
+import PlaceCard from "@/components/PlaceCard";
 
 type Status = "all" | "ongoing" | "upcoming";
 
@@ -16,6 +17,20 @@ export default function EventsExplorer() {
   const [status, setStatus] = useState<Status>((searchParams.get("status") as Status) ?? "all");
   const [type, setType] = useState((searchParams.get("type") as PlaceType | "all") ?? "all");
 
+  const trimmedQuery = query.trim().toLowerCase();
+
+  const matchedPlaces = useMemo(() => {
+    if (!trimmedQuery) return [];
+    return places.filter((place) => {
+      if (sido !== "all" && place.sido !== sido) return false;
+      if (type !== "all" && place.type !== type) return false;
+      return (
+        place.name.toLowerCase().includes(trimmedQuery) ||
+        place.sido.toLowerCase().includes(trimmedQuery)
+      );
+    });
+  }, [trimmedQuery, sido, type]);
+
   const rows = useMemo(() => {
     return events
       .map((event) => ({ event, place: places.find((p) => p.id === event.placeId) }))
@@ -25,12 +40,11 @@ export default function EventsExplorer() {
         if (type !== "all" && place.type !== type) return false;
         if (status === "ongoing" && !isOngoing(event)) return false;
         if (status === "upcoming" && !isUpcoming(event)) return false;
-        if (query.trim()) {
-          const q = query.trim().toLowerCase();
+        if (trimmedQuery) {
           if (
-            !event.title.toLowerCase().includes(q) &&
-            !place.name.toLowerCase().includes(q) &&
-            !place.sido.toLowerCase().includes(q)
+            !event.title.toLowerCase().includes(trimmedQuery) &&
+            !place.name.toLowerCase().includes(trimmedQuery) &&
+            !place.sido.toLowerCase().includes(trimmedQuery)
           ) {
             return false;
           }
@@ -38,7 +52,7 @@ export default function EventsExplorer() {
         return true;
       })
       .sort((a, b) => a.event.start.localeCompare(b.event.start));
-  }, [query, sido, status, type]);
+  }, [trimmedQuery, sido, status, type]);
 
   return (
     <div>
@@ -110,8 +124,27 @@ export default function EventsExplorer() {
         </div>
       </div>
 
+      {trimmedQuery && matchedPlaces.length > 0 && (
+        <section className="mb-10">
+          <h2 className="mb-4 text-lg font-bold text-navy">
+            장소 검색 결과 <span className="text-navy/40">({matchedPlaces.length}곳)</span>
+          </h2>
+          <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+            {matchedPlaces.map((place) => (
+              <PlaceCard key={place.id} place={place} />
+            ))}
+          </div>
+        </section>
+      )}
+
+      {trimmedQuery && <h2 className="mb-4 text-lg font-bold text-navy">전시 검색 결과</h2>}
+
       {rows.length === 0 ? (
-        <p className="py-20 text-center text-navy/50">조건에 맞는 전시가 없습니다.</p>
+        <p className="py-20 text-center text-navy/50">
+          {trimmedQuery && matchedPlaces.length > 0
+            ? "조건에 맞는 진행 중인 전시는 없지만, 위 장소는 확인해보세요."
+            : "조건에 맞는 결과가 없습니다."}
+        </p>
       ) : (
         <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
           {rows.map(({ event, place }) => (
