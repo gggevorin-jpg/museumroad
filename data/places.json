@@ -98,7 +98,8 @@
         "walk": "도보 5분"
       }
     ],
-    "featured": false
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/National_Museum_of_Modern_and_Contemporary_Art%2C_Seoul_3.jpg"
   },
   {
     "id": "seoul-004",
@@ -469,7 +470,8 @@
         "walk": "도보 10분"
       }
     ],
-    "featured": true
+    "featured": true,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/%28BB2024%29%EB%B6%80%EC%82%B0%ED%98%84%EB%8C%80%EB%AF%B8%EC%88%A0%EA%B4%80_%EC%99%B8%EB%B6%80.jpg/960px-%28BB2024%29%EB%B6%80%EC%82%B0%ED%98%84%EB%8C%80%EB%AF%B8%EC%88%A0%EA%B4%80_%EC%99%B8%EB%B6%80.jpg"
   },
   {
     "id": "busan-002",
@@ -738,7 +740,8 @@
         "walk": "도보 12분"
       }
     ],
-    "featured": false
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/20240330_Ulsan_art_museum.jpg/960px-20240330_Ulsan_art_museum.jpg"
   },
   {
     "id": "ulsan-003",
@@ -771,7 +774,8 @@
         "walk": "도보 10분"
       }
     ],
-    "featured": true
+    "featured": true,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/20240330_Ulsan_Taehwa-ru_01.jpg/960px-20240330_Ulsan_Taehwa-ru_01.jpg"
   },
   {
     "id": "gyeongnam-001",
@@ -1378,7 +1382,8 @@
         "walk": "도보 15분"
       }
     ],
-    "featured": true
+    "featured": true,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Buyeo_National_Museum_03_%2828142475120%29.jpg/960px-Buyeo_National_Museum_03_%2828142475120%29.jpg"
   },
   {
     "id": "chungnam-002",
@@ -2185,6 +2190,7 @@
         "walk": "차량 15분"
       }
     ],
-    "featured": false
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/%EA%B9%80%EC%98%81%EA%B0%91%EA%B0%A4%EB%9F%AC%EB%A6%AC.jpg/960px-%EA%B9%80%EC%98%81%EA%B0%91%EA%B0%A4%EB%9F%AC%EB%A6%AC.jpg"
   }
 ]
