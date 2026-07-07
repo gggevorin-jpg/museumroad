@@ -3655,25 +3655,6 @@
     "popularity": "regional"
   },
   {
-    "id": "gyeonggi-105",
-    "type": "architecture",
-    "name": "임진각 평화누리공원",
-    "sido": "경기도",
-    "address": "경기 파주시 문산읍 마정리 1338-2",
-    "phone": "031-956-8300",
-    "website": "",
-    "hours": "09:00~18:00(동절기 17:00)",
-    "closed": "연중무휴(일부 시설 제외)",
-    "fee": "무료",
-    "transit": "",
-    "parking": "",
-    "description": "분단의 상징인 임진각 일대에 조성된 평화 테마 공원으로 잔디광장과 조형물이 있다.",
-    "nearby": [],
-    "featured": true,
-    "popularity": "national",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Imjingak_001.jpg/960px-Imjingak_001.jpg"
-  },
-  {
     "id": "gyeonggi-106",
     "type": "architecture",
     "name": "파주 프로방스 마을",
@@ -3709,25 +3690,6 @@
     "featured": true,
     "popularity": "national",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Namhanssanseong.JPG/960px-Namhanssanseong.JPG"
-  },
-  {
-    "id": "gyeonggi-108",
-    "type": "architecture",
-    "name": "포천 아트밸리",
-    "sido": "경기도",
-    "address": "경기도 포천시 신북면 아트밸리로 234",
-    "phone": "031-538-3849",
-    "website": "https://artvalley.pcfac.or.kr/",
-    "hours": "09:00~18:00(매표마감 17:00)",
-    "closed": "",
-    "fee": "성인 5,000원, 청소년 3,000원, 어린이 1,500원, 경로 무료",
-    "transit": "",
-    "parking": "무료",
-    "description": "폐채석장을 재생한 문화예술 공간으로 천주호와 모노레일, 조각공원이 있다.",
-    "nearby": [],
-    "featured": true,
-    "popularity": "national",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Art_Valley_In_Korea_%2865750913%29.jpeg/960px-Art_Valley_In_Korea_%2865750913%29.jpeg"
   },
   {
     "id": "gyeonggi-109",
@@ -3782,43 +3744,6 @@
     "nearby": [],
     "featured": true,
     "popularity": "regional"
-  },
-  {
-    "id": "gyeonggi-112",
-    "type": "architecture",
-    "name": "광명동굴",
-    "sido": "경기도",
-    "address": "경기도 광명시 가학로85번길 142",
-    "phone": "070-4277-8902",
-    "website": "",
-    "hours": "09:00~18:00(마지막 입장 17:00)",
-    "closed": "매주 월요일",
-    "fee": "성인 10,000원, 청소년 5,000원, 어린이 3,000원, 경로 3,000원",
-    "transit": "",
-    "parking": "",
-    "description": "옛 폐광을 예술과 빛의 공간으로 재탄생시킨 동굴 테마 관광지이다.",
-    "nearby": [],
-    "featured": true,
-    "popularity": "national",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Gwangmyeong_Cave.jpg/960px-Gwangmyeong_Cave.jpg"
-  },
-  {
-    "id": "gyeonggi-113",
-    "type": "architecture",
-    "name": "안성팜랜드",
-    "sido": "경기도",
-    "address": "경기도 안성시 공도읍 대신두길 28",
-    "phone": "031-8053-7979",
-    "website": "http://nhasfarmland.com/",
-    "hours": "10:00~18:00(12~1월 10:00~17:00, 매표마감 폐장 1시간 전)",
-    "closed": "",
-    "fee": "대인 12,000원, 어린이 10,000원(체험료 별도)",
-    "transit": "",
-    "parking": "",
-    "description": "농협이 운영하는 대규모 목장형 테마파크로 동물체험과 초원 경관이 특징이다.",
-    "nearby": [],
-    "featured": false,
-    "popularity": "national"
   },
   {
     "id": "gyeonggi-114",
@@ -3914,63 +3839,6 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Suwon_Hwaseong_Museum_20240929_001.jpg/960px-Suwon_Hwaseong_Museum_20240929_001.jpg"
   },
   {
-    "id": "gyeonggi-119",
-    "type": "architecture",
-    "name": "아침고요수목원",
-    "sido": "경기도",
-    "address": "경기도 가평군 상면 수목원로 432",
-    "phone": "1544-6703",
-    "website": "https://www.morningcalm.co.kr/",
-    "hours": "3월말~11월 08:30~19:00, 12~3월중순 10:00~21:00(별빛정원전)",
-    "closed": "",
-    "fee": "성인 11,000원, 청소년 8,500원, 어린이 7,500원",
-    "transit": "",
-    "parking": "무료",
-    "description": "한국 정원 양식을 살린 대표적인 수목원으로 사계절 테마 정원과 야간 별빛정원전이 유명하다.",
-    "nearby": [],
-    "featured": true,
-    "popularity": "national",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Morning_Calm_Arboretum_Sign.jpg/960px-Morning_Calm_Arboretum_Sign.jpg"
-  },
-  {
-    "id": "gyeonggi-120",
-    "type": "architecture",
-    "name": "벽초지수목원",
-    "sido": "경기도",
-    "address": "경기 파주시 광탄면 부흥로 242",
-    "phone": "031-957-2004",
-    "website": "http://www.bcj.co.kr/",
-    "hours": "",
-    "closed": "",
-    "fee": "성인 9,500원, 청소년/경로/장애인/유공자 7,500원, 어린이 6,500원",
-    "transit": "",
-    "parking": "",
-    "description": "유럽식 정원과 온실, 조각 작품이 어우러진 사립 수목원이다.",
-    "nearby": [],
-    "featured": false,
-    "popularity": "regional",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/20241207_Ez2AC_%EB%B2%BD%EC%B4%88%EC%A7%80%EC%88%98%EB%AA%A9%EC%9B%90.jpg/960px-20241207_Ez2AC_%EB%B2%BD%EC%B4%88%EC%A7%80%EC%88%98%EB%AA%A9%EC%9B%90.jpg"
-  },
-  {
-    "id": "gyeonggi-121",
-    "type": "architecture",
-    "name": "세미원",
-    "sido": "경기도",
-    "address": "경기도 양평군 양서면 양수로 93",
-    "phone": "",
-    "website": "https://www.semiwon.or.kr/",
-    "hours": "09:30~18:00",
-    "closed": "",
-    "fee": "성인 8,500원, 어린이 6,000원",
-    "transit": "",
-    "parking": "",
-    "description": "연꽃과 물을 주제로 조성된 정원으로 두물머리와 인접해 있다.",
-    "nearby": [],
-    "featured": false,
-    "popularity": "regional",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/%EC%84%B8%EB%AF%B8%EC%97%B0_%2826%29.JPG/960px-%EC%84%B8%EB%AF%B8%EC%97%B0_%2826%29.JPG"
-  },
-  {
     "id": "gyeonggi-122",
     "type": "museum",
     "name": "경기도박물관",
@@ -4063,44 +3931,6 @@
     "popularity": "regional"
   },
   {
-    "id": "gyeonggi-127",
-    "type": "architecture",
-    "name": "재인폭포",
-    "sido": "경기도",
-    "address": "경기도 연천군 연천읍 부곡리 192",
-    "phone": "031-839-2061",
-    "website": "",
-    "hours": "09:00~18:00(매표마감 17:00)",
-    "closed": "연중무휴",
-    "fee": "성인 5,000원, 어린이·청소년(7~18세) 3,000원, 6세 이하 무료",
-    "transit": "",
-    "parking": "",
-    "description": "한탄강 유네스코 세계지질공원 내 위치한 높이 약 18m의 폭포로 출렁다리가 있다.",
-    "nearby": [],
-    "featured": false,
-    "popularity": "regional",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Jaein_Pokpo_180519001.jpg/960px-Jaein_Pokpo_180519001.jpg"
-  },
-  {
-    "id": "gyeonggi-128",
-    "type": "architecture",
-    "name": "임진각 평화곤돌라",
-    "sido": "경기도",
-    "address": "경기도 파주시 문산읍 임진각로 148-73",
-    "phone": "031-952-6388",
-    "website": "https://www.dmzgondola.com/",
-    "hours": "하절기(4~10월) 09:00~18:00, 동절기(11~3월) 09:00~17:00",
-    "closed": "",
-    "fee": "대인 9,000원, 소인 7,000원",
-    "transit": "",
-    "parking": "",
-    "description": "임진각에서 민통선 이북 캠프 그리브스까지 오가는 곤돌라로 DMZ 일대를 조망한다.",
-    "nearby": [],
-    "featured": false,
-    "popularity": "regional",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Imjingak_001.jpg/960px-Imjingak_001.jpg"
-  },
-  {
     "id": "gyeonggi-129",
     "type": "architecture",
     "name": "포천 한탄강 하늘다리",
@@ -4117,44 +3947,6 @@
     "nearby": [],
     "featured": false,
     "popularity": "regional"
-  },
-  {
-    "id": "gyeonggi-130",
-    "type": "architecture",
-    "name": "일산 호수공원",
-    "sido": "경기도",
-    "address": "경기도 고양시 일산동구 호수로 595",
-    "phone": "031-909-9000",
-    "website": "",
-    "hours": "",
-    "closed": "",
-    "fee": "무료",
-    "transit": "",
-    "parking": "",
-    "description": "국내 최대 규모의 인공호수공원으로 조형물과 산책로가 조성되어 있다.",
-    "nearby": [],
-    "featured": false,
-    "popularity": "regional",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Goyang_Lake_Park.jpg/960px-Goyang_Lake_Park.jpg"
-  },
-  {
-    "id": "gangwon-101",
-    "type": "architecture",
-    "name": "남이섬",
-    "sido": "강원특별자치도",
-    "address": "강원특별자치도 춘천시 남산면 남이섬길 1",
-    "phone": "031-580-8114",
-    "website": "https://www.namisum.com/",
-    "hours": "08:00~21:00(연중무휴)",
-    "closed": "",
-    "fee": "일반 19,000원, 우대(중·고생) 16,000원, 특별우대(36개월~초등학생) 13,000원",
-    "transit": "",
-    "parking": "",
-    "description": "메타세쿼이아길과 자연 경관으로 유명한 섬 관광지로 각종 영화·드라마 촬영지이다.",
-    "nearby": [],
-    "featured": true,
-    "popularity": "national",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Nami_island_winter.jpg/960px-Nami_island_winter.jpg"
   },
   {
     "id": "gangwon-102",
@@ -4250,43 +4042,6 @@
     "popularity": "regional"
   },
   {
-    "id": "gangwon-107",
-    "type": "architecture",
-    "name": "대관령 양떼목장",
-    "sido": "강원특별자치도",
-    "address": "강원도 평창군 대관령면 대관령마루길 483-32",
-    "phone": "033-335-1966",
-    "website": "",
-    "hours": "09:00~17:00~18:30(계절별 상이)",
-    "closed": "",
-    "fee": "대인 6,000원, 소인 4,000원, 경로/장애인 3,000원",
-    "transit": "",
-    "parking": "",
-    "description": "드넓은 초원에서 양떼와 함께 산책하며 눈꽃 경관으로도 유명한 목장이다.",
-    "nearby": [],
-    "featured": true,
-    "popularity": "national"
-  },
-  {
-    "id": "gangwon-108",
-    "type": "architecture",
-    "name": "정선 화암동굴",
-    "sido": "강원특별자치도",
-    "address": "강원도 정선군 화암면 화암리 산248",
-    "phone": "033-560-3410",
-    "website": "",
-    "hours": "09:00~18:00(도보 입장마감 16:30, 모노레일 탑승마감 17:00)",
-    "closed": "",
-    "fee": "성인 5,000원, 중고생·군인 3,500원, 어린이 2,000원",
-    "transit": "",
-    "parking": "",
-    "description": "천연기념물로 지정된 석회동굴로 모노레일을 타고 오를 수 있다.",
-    "nearby": [],
-    "featured": false,
-    "popularity": "regional",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/%EC%A0%95%EC%84%A0_%ED%99%94%EC%95%94%EB%8F%99%EA%B5%B4.jpg"
-  },
-  {
     "id": "gangwon-109",
     "type": "architecture",
     "name": "철원 고석정",
@@ -4304,24 +4059,6 @@
     "featured": false,
     "popularity": "regional",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Goseokjeong%2C_a_natural_tower_of_granite_rock%2C_at_Hantan_River.jpg/960px-Goseokjeong%2C_a_natural_tower_of_granite_rock%2C_at_Hantan_River.jpg"
-  },
-  {
-    "id": "gangwon-110",
-    "type": "architecture",
-    "name": "인제 원대리 자작나무숲",
-    "sido": "강원특별자치도",
-    "address": "강원도 인제군 인제읍 원대리 763-4",
-    "phone": "033-463-0044",
-    "website": "",
-    "hours": "하절기(5~10월) 09:00~18:00, 동절기(11~3월) 09:00~17:00",
-    "closed": "매주 월·화요일(공휴일 제외)",
-    "fee": "무료",
-    "transit": "",
-    "parking": "",
-    "description": "울창한 자작나무 군락지로 '속삭이는 자작나무숲'이라 불리는 산림욕 명소이다.",
-    "nearby": [],
-    "featured": false,
-    "popularity": "regional"
   },
   {
     "id": "chungbuk-101",
@@ -4445,55 +4182,6 @@
     "popularity": "regional"
   },
   {
-    "id": "chungbuk-106",
-    "type": "architecture",
-    "name": "충주 탄금대",
-    "sido": "충청북도",
-    "address": "충청북도 충주시 칠금동 산1-1",
-    "phone": "043-850-6723",
-    "website": "",
-    "hours": "상시개방",
-    "closed": "연중무휴",
-    "fee": "무료",
-    "transit": "충주시내에서 시내버스 이용",
-    "parking": "주차장 있음",
-    "description": "우륵이 가야금을 연주했다는 전설과 임진왜란 신립 장군의 순절지로 알려진 명승지로, 울창한 송림과 남한강 절경이 어우러진다.",
-    "nearby": [
-      {
-        "kind": "핫플",
-        "name": "탄금호 무지개길",
-        "walk": "도보 10분"
-      }
-    ],
-    "featured": false,
-    "popularity": "regional"
-  },
-  {
-    "id": "chungbuk-107",
-    "type": "architecture",
-    "name": "단양 고수동굴",
-    "sido": "충청북도",
-    "address": "충청북도 단양군 단양읍 고수동굴길 8",
-    "phone": "043-422-3072",
-    "website": "http://www.gosucave.co.kr",
-    "hours": "09:00–17:00 입장",
-    "closed": "연중무휴",
-    "fee": "성인 11,000원 / 중고생 7,000원 / 경로 5,500원 / 어린이 5,000원",
-    "transit": "단양시외버스터미널에서 차량 이동",
-    "parking": "유료 주차장(승용차 3,000원)",
-    "description": "천연기념물로 지정된 석회동굴로 종유석과 석순 등 다양한 동굴 생성물을 관람할 수 있다.",
-    "nearby": [
-      {
-        "kind": "핫플",
-        "name": "단양강 잔도",
-        "walk": "차량 10분"
-      }
-    ],
-    "featured": false,
-    "popularity": "regional",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/%EB%8B%A8%EC%96%91_%EA%B3%A0%EC%88%98%EB%8F%99%EA%B5%B4_17.jpg/960px-%EB%8B%A8%EC%96%91_%EA%B3%A0%EC%88%98%EB%8F%99%EA%B5%B4_17.jpg"
-  },
-  {
     "id": "chungbuk-108",
     "type": "gallery",
     "name": "국립현대미술관 청주",
@@ -4516,31 +4204,6 @@
     ],
     "featured": true,
     "popularity": "national"
-  },
-  {
-    "id": "chungbuk-109",
-    "type": "architecture",
-    "name": "보은 속리 정이품송",
-    "sido": "충청북도",
-    "address": "충청북도 보은군 속리산면 상판리 17-3",
-    "phone": "043-540-3394",
-    "website": "",
-    "hours": "상시개방",
-    "closed": "연중무휴",
-    "fee": "무료",
-    "transit": "보은터미널에서 속리산행 버스 이용",
-    "parking": "말티재 인근 주차장 이용",
-    "description": "세조가 법주사로 행차할 때 가지를 들어 길을 내주었다는 전설이 전해지는 천연기념물 소나무로, 속리산 말티재 초입에 있다.",
-    "nearby": [
-      {
-        "kind": "핫플",
-        "name": "말티재 전망대",
-        "walk": "차량 5분"
-      }
-    ],
-    "featured": false,
-    "popularity": "regional",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/%EC%A0%95%EC%9D%B4%ED%92%88%EC%86%A1.jpg/960px-%EC%A0%95%EC%9D%B4%ED%92%88%EC%86%A1.jpg"
   },
   {
     "id": "chungbuk-110",
@@ -4789,36 +4452,6 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/20140809_%EB%A7%88%EA%B3%A1%EC%82%AC_%EB%8C%80%EA%B4%91%EB%B3%B4%EC%A0%84.jpg/960px-20140809_%EB%A7%88%EA%B3%A1%EC%82%AC_%EB%8C%80%EA%B4%91%EB%B3%B4%EC%A0%84.jpg"
   },
   {
-    "id": "chungnam-110",
-    "type": "architecture",
-    "name": "안면도자연휴양림",
-    "sido": "충청남도",
-    "address": "충청남도 태안군 안면읍 안면대로 3195-6",
-    "phone": "041-674-5019",
-    "website": "",
-    "hours": "",
-    "closed": "",
-    "fee": "",
-    "transit": "태안터미널에서 안면도행 버스 이용",
-    "parking": "주차장 있음",
-    "description": "안면송(적송) 숲으로 유명한 자연휴양림으로 산림욕과 숙박 시설을 갖추고 있다.",
-    "nearby": [
-      {
-        "kind": "핫플",
-        "name": "꽃지해안공원",
-        "walk": "차량 15분"
-      },
-      {
-        "kind": "핫플",
-        "name": "천리포수목원",
-        "walk": "차량 20분"
-      }
-    ],
-    "featured": false,
-    "popularity": "regional",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Taean-map.png/960px-Taean-map.png"
-  },
-  {
     "id": "sejong-101",
     "type": "museum",
     "name": "세종시립민속박물관",
@@ -4865,31 +4498,6 @@
     ],
     "featured": true,
     "popularity": "national"
-  },
-  {
-    "id": "sejong-103",
-    "type": "architecture",
-    "name": "베어트리파크",
-    "sido": "세종특별자치시",
-    "address": "세종특별자치시 전동면 (베어트리파크)",
-    "phone": "",
-    "website": "http://beartreepark.co.kr",
-    "hours": "3~11월 09:00–일몰 / 12~2월 10:00–17~18시(11~1월 입장마감 16:00)",
-    "closed": "",
-    "fee": "성인 13,000원 / 청소년 11,000원 / 어린이 9,000원",
-    "transit": "세종시내에서 차량 이동",
-    "parking": "주차장 있음",
-    "description": "50여 년간 조성된 수목원과 동물원을 함께 즐길 수 있는 복합 정원으로, 반달곰과 꽃사슴 등을 관람할 수 있다.",
-    "nearby": [
-      {
-        "kind": "핫플",
-        "name": "비암사",
-        "walk": "차량 15분"
-      }
-    ],
-    "featured": true,
-    "popularity": "national",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/%EB%B2%A0%EC%9D%B4%ED%8A%B8%EB%A6%AC%ED%8C%8C%ED%81%AC1.jpg"
   },
   {
     "id": "sejong-104",
@@ -5033,75 +4641,6 @@
     "featured": true,
     "popularity": "national",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/%ED%95%B4%EB%8F%99%EC%9A%A9%EA%B6%81%EC%82%AC_%EC%82%AC%EC%B0%B0_%EC%A0%84%EA%B2%BD.jpg/960px-%ED%95%B4%EB%8F%99%EC%9A%A9%EA%B6%81%EC%82%AC_%EC%82%AC%EC%B0%B0_%EC%A0%84%EA%B2%BD.jpg"
-  },
-  {
-    "id": "busan-103",
-    "type": "architecture",
-    "name": "이기대 도시자연공원",
-    "sido": "부산광역시",
-    "address": "부산광역시 남구 이기대공원로 105-20",
-    "phone": "051-607-6398",
-    "website": "",
-    "hours": "24시간 개방",
-    "closed": "연중무휴",
-    "fee": "무료",
-    "transit": "지하철 2호선 남천역에서 도보 또는 버스 27, 20, 24, 39, 22번 이용해 오륙도 방면 하차",
-    "parking": "이기대공원 주차장 이용",
-    "description": "해안 절경을 따라 이어진 산책로로, 기암절벽과 파도가 만들어내는 풍경이 뛰어나 부산 해파랑길의 대표 구간으로 꼽힌다. 어울마당과 전망대 등 곳곳에 쉼터가 있다.",
-    "nearby": [
-      {
-        "kind": "맛집",
-        "name": "이기대횟집",
-        "walk": "도보 5분"
-      },
-      {
-        "kind": "카페",
-        "name": "브라운핸즈 백제",
-        "walk": "차량 10분"
-      },
-      {
-        "kind": "핫플",
-        "name": "오륙도 스카이워크",
-        "walk": "도보 30분"
-      }
-    ],
-    "featured": false,
-    "popularity": "regional",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Yigidae_park.jpg/960px-Yigidae_park.jpg"
-  },
-  {
-    "id": "busan-104",
-    "type": "architecture",
-    "name": "태종대 유원지",
-    "sido": "부산광역시",
-    "address": "부산광역시 영도구 전망로 24",
-    "phone": "051-405-8745",
-    "website": "https://www.bisco.or.kr/taejongdae/",
-    "hours": "하절기(3–10월) 04:00–24:00, 동절기(11–2월) 05:00–24:00",
-    "closed": "연중무휴",
-    "fee": "입장 무료 (다누비 열차 별도 유료)",
-    "transit": "지하철 1호선 남포역에서 버스 8, 30, 66, 88, 186번 이용해 태종대 종점 하차",
-    "parking": "무료 (성수기 조기 만차 가능)",
-    "description": "부산을 대표하는 해안 유원지로, 기암절벽과 등대, 자갈마당이 어우러진 절경을 자랑한다. 다누비 열차를 타면 전체 코스를 편하게 둘러볼 수 있다.",
-    "nearby": [
-      {
-        "kind": "맛집",
-        "name": "태종대 자갈마당 회센터",
-        "walk": "도보 15분"
-      },
-      {
-        "kind": "카페",
-        "name": "영도등대 카페",
-        "walk": "도보 5분"
-      },
-      {
-        "kind": "핫플",
-        "name": "감지해변",
-        "walk": "차량 10분"
-      }
-    ],
-    "featured": false,
-    "popularity": "national"
   },
   {
     "id": "busan-105",
@@ -5553,41 +5092,6 @@
     "popularity": "regional"
   },
   {
-    "id": "daegu-108",
-    "type": "architecture",
-    "name": "국채보상운동기념공원",
-    "sido": "대구광역시",
-    "address": "대구광역시 중구 국채보상로 670",
-    "phone": "",
-    "website": "",
-    "hours": "24시간 개방",
-    "closed": "연중무휴",
-    "fee": "무료",
-    "transit": "지하철 1호선 중앙로역 또는 2호선 반월당역에서 도보 이용, 삼덕네거리 방향 버스 정류장 하차",
-    "parking": "인근 공영주차장 이용",
-    "description": "국채보상운동을 기념해 조성된 도심 공원으로, 기념탑과 참여 인물 조형물이 있으며 대구 시민들의 대표 휴식 공간이다.",
-    "nearby": [
-      {
-        "kind": "맛집",
-        "name": "동성로 먹거리골목",
-        "walk": "도보 10분"
-      },
-      {
-        "kind": "카페",
-        "name": "국채보상로 카페거리",
-        "walk": "도보 5분"
-      },
-      {
-        "kind": "핫플",
-        "name": "동성로",
-        "walk": "도보 10분"
-      }
-    ],
-    "featured": false,
-    "popularity": "regional",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/National_Debt_Repayment_Movement_Park-1.jpg/960px-National_Debt_Repayment_Movement_Park-1.jpg"
-  },
-  {
     "id": "daegu-109",
     "type": "gallery",
     "name": "대구간송미술관",
@@ -5620,111 +5124,6 @@
     ],
     "featured": true,
     "popularity": "national"
-  },
-  {
-    "id": "daegu-110",
-    "type": "architecture",
-    "name": "수성못",
-    "sido": "대구광역시",
-    "address": "대구광역시 수성구 무학로 78",
-    "phone": "",
-    "website": "",
-    "hours": "24시간 개방",
-    "closed": "연중무휴",
-    "fee": "무료",
-    "transit": "지하철 3호선 수성못역 1번 출구 도보 7분",
-    "parking": "인근 공영주차장 이용",
-    "description": "일제강점기에 조성된 저수지를 활용한 호수공원으로, 오리배와 분수쇼, 벚꽃길이 어우러진 대구 시민의 대표 휴식처다.",
-    "nearby": [
-      {
-        "kind": "맛집",
-        "name": "수성못 먹거리촌",
-        "walk": "도보 5분"
-      },
-      {
-        "kind": "카페",
-        "name": "수성못 호수카페거리",
-        "walk": "도보 3분"
-      },
-      {
-        "kind": "핫플",
-        "name": "대구간송미술관",
-        "walk": "차량 5분"
-      }
-    ],
-    "featured": false,
-    "popularity": "regional",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Suseonglakeducks.JPG/960px-Suseonglakeducks.JPG"
-  },
-  {
-    "id": "ulsan-101",
-    "type": "architecture",
-    "name": "대왕암공원",
-    "sido": "울산광역시",
-    "address": "울산광역시 동구 일산동 산907",
-    "phone": "052-209-3767",
-    "website": "",
-    "hours": "24시간 개방",
-    "closed": "연중무휴",
-    "fee": "무료 (주차 유료)",
-    "transit": "버스 124번 이용해 대왕암공원 하차",
-    "parking": "유료 주차장 있음",
-    "description": "울창한 해송숲과 기암괴석, 국내 최장 해상 현수교인 출렁다리가 있는 해안 공원으로, 일출 명소이자 울산의 대표 관광지다.",
-    "nearby": [
-      {
-        "kind": "맛집",
-        "name": "일산해수욕장 횟집거리",
-        "walk": "도보 10분"
-      },
-      {
-        "kind": "카페",
-        "name": "대왕암 전망 카페",
-        "walk": "도보 5분"
-      },
-      {
-        "kind": "핫플",
-        "name": "일산해수욕장",
-        "walk": "도보 10분"
-      }
-    ],
-    "featured": true,
-    "popularity": "national",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/KU-Dwa2.jpg/960px-KU-Dwa2.jpg"
-  },
-  {
-    "id": "ulsan-102",
-    "type": "architecture",
-    "name": "울주 대곡리 반구대 암각화",
-    "sido": "울산광역시",
-    "address": "울산광역시 울주군 언양읍 대곡리 산234-1",
-    "phone": "052-229-4797",
-    "website": "",
-    "hours": "울산암각화박물관 경유 관람, 09:00–18:00",
-    "closed": "매주 월요일",
-    "fee": "무료 (해설 프로그램 이용)",
-    "transit": "울산암각화박물관에서 문화관광해설사 동행 프로그램으로만 근접 관람 가능",
-    "parking": "울산암각화박물관 주차장 이용",
-    "description": "선사시대 사람들이 새긴 고래·동물 그림이 새겨진 국보급 암각화로, 세계적으로 희귀한 선사 유적이다. 근접 관람은 해설 프로그램을 통해서만 가능하다.",
-    "nearby": [
-      {
-        "kind": "맛집",
-        "name": "언양불고기거리",
-        "walk": "차량 15분"
-      },
-      {
-        "kind": "카페",
-        "name": "암각화박물관 카페",
-        "walk": "도보 5분"
-      },
-      {
-        "kind": "핫플",
-        "name": "울산암각화박물관",
-        "walk": "차량 5분"
-      }
-    ],
-    "featured": false,
-    "popularity": "national",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Bangudae3.jpg/960px-Bangudae3.jpg"
   },
   {
     "id": "ulsan-103",
@@ -5796,41 +5195,6 @@
     "popularity": "national"
   },
   {
-    "id": "ulsan-105",
-    "type": "architecture",
-    "name": "간절곶",
-    "sido": "울산광역시",
-    "address": "울산광역시 울주군 서생면 간절곶1길 39-2",
-    "phone": "",
-    "website": "",
-    "hours": "24시간 개방",
-    "closed": "연중무휴",
-    "fee": "무료",
-    "transit": "동해선 서생역에서 버스 515, 735번 이용",
-    "parking": "무료 주차장 있음",
-    "description": "한반도에서 해가 가장 먼저 뜨는 곳 중 하나로 알려진 곶으로, 하얀 등대와 우체통 조형물이 있어 새해 해맞이 명소로 유명하다.",
-    "nearby": [
-      {
-        "kind": "맛집",
-        "name": "간절곶 해변 횟집",
-        "walk": "도보 5분"
-      },
-      {
-        "kind": "카페",
-        "name": "간절곶 전망 카페",
-        "walk": "도보 3분"
-      },
-      {
-        "kind": "핫플",
-        "name": "진하해수욕장",
-        "walk": "차량 10분"
-      }
-    ],
-    "featured": false,
-    "popularity": "national",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Ganjeolgot%2C_Ulsan_on_August_16th%2C_2018.jpg/960px-Ganjeolgot%2C_Ulsan_on_August_16th%2C_2018.jpg"
-  },
-  {
     "id": "ulsan-106",
     "type": "museum",
     "name": "외솔기념관",
@@ -5865,76 +5229,6 @@
     "popularity": "regional"
   },
   {
-    "id": "ulsan-107",
-    "type": "architecture",
-    "name": "울산대공원",
-    "sido": "울산광역시",
-    "address": "울산광역시 남구 대공원로 94",
-    "phone": "",
-    "website": "http://www.ulsanrosefestival.com/",
-    "hours": "홈페이지 공지 확인",
-    "closed": "",
-    "fee": "장미원·동물원 성인 2,000원 / 청소년 1,000원 / 어린이 500원",
-    "transit": "버스 472, 753, 918, 921번 이용",
-    "parking": "공원 내 주차장 이용",
-    "description": "SK그룹 기부로 조성된 도심 속 대형 공원으로, 매년 5월 300만 송이 장미가 피는 장미원 축제로 유명하다.",
-    "nearby": [
-      {
-        "kind": "맛집",
-        "name": "삼산동 먹자골목",
-        "walk": "차량 10분"
-      },
-      {
-        "kind": "카페",
-        "name": "대공원 내 카페",
-        "walk": "도보 5분"
-      },
-      {
-        "kind": "핫플",
-        "name": "울산대공원 장미원",
-        "walk": "도보 3분"
-      }
-    ],
-    "featured": false,
-    "popularity": "regional",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/%EC%9A%B8%EC%82%B0%EB%8C%80%EA%B3%B5%EC%9B%90_%ED%98%84%EC%B6%A9%ED%83%91_20170524_161927.jpg/960px-%EC%9A%B8%EC%82%B0%EB%8C%80%EA%B3%B5%EC%9B%90_%ED%98%84%EC%B6%A9%ED%83%91_20170524_161927.jpg"
-  },
-  {
-    "id": "ulsan-108",
-    "type": "architecture",
-    "name": "태화강 국가정원",
-    "sido": "울산광역시",
-    "address": "울산광역시 중구 태화강국가정원길 154",
-    "phone": "",
-    "website": "https://www.ulsan.go.kr/s/garden/main.ulsan",
-    "hours": "24시간 개방 (안내센터 09:00–18:00)",
-    "closed": "연중무휴",
-    "fee": "무료",
-    "transit": "버스 133, 327, 357, 708, 718, 728, 807, 857번 이용해 태화동 정류장 하차",
-    "parking": "인근 공영주차장 이용",
-    "description": "국가정원으로 지정된 국내 최대 규모의 도심 생태공원으로, 십리대숲과 은하수길 등 사계절 산책 명소로 사랑받는다.",
-    "nearby": [
-      {
-        "kind": "맛집",
-        "name": "태화강 십리대숲 맛집거리",
-        "walk": "도보 10분"
-      },
-      {
-        "kind": "카페",
-        "name": "태화강 전망 카페",
-        "walk": "도보 5분"
-      },
-      {
-        "kind": "핫플",
-        "name": "태화강 십리대숲",
-        "walk": "도보 5분"
-      }
-    ],
-    "featured": true,
-    "popularity": "national",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/%ED%83%9C%ED%99%94%EA%B0%95_%EA%B5%AD%EA%B0%80%EC%A0%95%EC%9B%90.jpg"
-  },
-  {
     "id": "gyeongnam-101",
     "type": "architecture",
     "name": "동피랑벽화마을",
@@ -5967,75 +5261,6 @@
     ],
     "featured": true,
     "popularity": "national"
-  },
-  {
-    "id": "gyeongnam-102",
-    "type": "architecture",
-    "name": "바람의 언덕",
-    "sido": "경상남도",
-    "address": "경상남도 거제시 남부면 갈곶리 산14-47",
-    "phone": "055-639-4178",
-    "website": "",
-    "hours": "24시간 개방",
-    "closed": "연중무휴",
-    "fee": "무료",
-    "transit": "버스 55, 55-1번 이용해 도장포 정류장 하차, 도보 10분",
-    "parking": "인근 주차장 이용",
-    "description": "풍차와 억새, 해안 절벽이 어우러진 언덕으로, 유럽풍 이국적 풍경 덕분에 드라마·영화 촬영지로도 유명하다.",
-    "nearby": [
-      {
-        "kind": "맛집",
-        "name": "도장포마을 해물칼국수",
-        "walk": "도보 10분"
-      },
-      {
-        "kind": "카페",
-        "name": "바람의언덕 카페",
-        "walk": "도보 5분"
-      },
-      {
-        "kind": "핫플",
-        "name": "신선대",
-        "walk": "도보 20분"
-      }
-    ],
-    "featured": false,
-    "popularity": "national"
-  },
-  {
-    "id": "gyeongnam-103",
-    "type": "architecture",
-    "name": "한려수도 조망 케이블카",
-    "sido": "경상남도",
-    "address": "경상남도 통영시 발개로 205",
-    "phone": "1544-3303",
-    "website": "http://cablecar.ttdc.kr/",
-    "hours": "홈페이지 공지 확인",
-    "closed": "",
-    "fee": "왕복 대인 14,000원 / 소인 10,000원",
-    "transit": "통영종합버스터미널에서 택시 또는 버스 이용",
-    "parking": "케이블카 주차장 이용",
-    "description": "미륵산 정상까지 연결되는 케이블카로, 정상에서 한려수도의 다도해 절경을 한눈에 감상할 수 있는 통영 대표 관광 명소다.",
-    "nearby": [
-      {
-        "kind": "맛집",
-        "name": "미륵산 자락 충무김밥거리",
-        "walk": "차량 5분"
-      },
-      {
-        "kind": "카페",
-        "name": "케이블카 승강장 카페",
-        "walk": "도보 1분"
-      },
-      {
-        "kind": "핫플",
-        "name": "미륵산 정상 전망대",
-        "walk": "케이블카 이용"
-      }
-    ],
-    "featured": false,
-    "popularity": "national",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Tongyeong_Cable_Car.jpg/960px-Tongyeong_Cable_Car.jpg"
   },
   {
     "id": "gyeongnam-104",
@@ -6143,41 +5368,6 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/German_Village_in_South_Korea_03.jpg/960px-German_Village_in_South_Korea_03.jpg"
   },
   {
-    "id": "gyeongnam-107",
-    "type": "architecture",
-    "name": "창녕 우포늪",
-    "sido": "경상남도",
-    "address": "경상남도 창녕군 유어면 우포늪길 220",
-    "phone": "055-530-1553",
-    "website": "",
-    "hours": "상시 개방 (생태관 09:00–18:00)",
-    "closed": "생태관 매주 월요일",
-    "fee": "생태관 어른 2,000원 / 청소년 1,500원 / 어린이 1,000원",
-    "transit": "창녕시외버스터미널에서 영신버스터미널 도보 이동 후 우포늪생태관 방면 버스 이용",
-    "parking": "우포늪생태관 주차장 이용",
-    "description": "국내 최대 규모의 자연 습지로, 태고의 원시 생태를 간직한 람사르 습지다. 탐방로와 자전거길, 생태관을 통해 다양한 관찰이 가능하다.",
-    "nearby": [
-      {
-        "kind": "맛집",
-        "name": "우포늪 인근 향토음식점",
-        "walk": "차량 5분"
-      },
-      {
-        "kind": "카페",
-        "name": "우포늪 생태관 카페",
-        "walk": "도보 1분"
-      },
-      {
-        "kind": "핫플",
-        "name": "우포늪 생태관 전망대",
-        "walk": "도보 3분"
-      }
-    ],
-    "featured": false,
-    "popularity": "national",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/%EC%9A%B0%ED%8F%AC%EB%8A%AA_%ED%92%8D%EA%B2%BD_%28Upo_wetlands_scenery%29.jpg/960px-%EC%9A%B0%ED%8F%AC%EB%8A%AA_%ED%92%8D%EA%B2%BD_%28Upo_wetlands_scenery%29.jpg"
-  },
-  {
     "id": "gyeongnam-108",
     "type": "museum",
     "name": "진해군항마을역사관",
@@ -6210,41 +5400,6 @@
     ],
     "featured": false,
     "popularity": "regional"
-  },
-  {
-    "id": "gyeongnam-109",
-    "type": "architecture",
-    "name": "외도보타니아",
-    "sido": "경상남도",
-    "address": "경상남도 거제시 일운면 외도길 17",
-    "phone": "055-632-8787",
-    "website": "http://www.oedobotania.com/",
-    "hours": "09:00–18:00",
-    "closed": "기상 악화 시 유람선 결항",
-    "fee": "일반 11,000원 / 청소년·군경 8,000원 / 어린이 5,000원",
-    "transit": "장승포·와현·구조라 등에서 외도 유람선 탑승",
-    "parking": "선착장 주차장 이용",
-    "description": "개인이 30여 년간 가꾼 해상 식물원으로, 지중해풍 정원과 조각 작품이 어우러져 배를 타고 방문하는 이색 관광지다.",
-    "nearby": [
-      {
-        "kind": "맛집",
-        "name": "장승포항 회센터",
-        "walk": "차량 10분(선착장)"
-      },
-      {
-        "kind": "카페",
-        "name": "외도 선상 카페",
-        "walk": "도보 1분"
-      },
-      {
-        "kind": "핫플",
-        "name": "해금강",
-        "walk": "유람선 15분"
-      }
-    ],
-    "featured": false,
-    "popularity": "national",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Korea-Geoje-Oedo_4073-06.JPG/960px-Korea-Geoje-Oedo_4073-06.JPG"
   },
   {
     "id": "gyeongnam-110",
@@ -6668,95 +5823,6 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Panorama_of_International_Garden_Exposition_Suncheon_Bay_Korea_2013.jpg"
   },
   {
-    "id": "jeonnam-102",
-    "type": "architecture",
-    "name": "오동도",
-    "sido": "전라남도",
-    "address": "전라남도 여수시 수정동 산 1-11",
-    "phone": "061-659-1819",
-    "website": "",
-    "hours": "24시간 개방(등대 18:00까지, 동절기 17:00까지)",
-    "closed": "연중무휴(등대 월요일 휴무)",
-    "fee": "입장 무료(동백열차 1,000원)",
-    "transit": "여수엑스포역에서 시내버스 이용",
-    "parking": "유료 주차장 있음",
-    "description": "동백꽃 군락지로 유명한 여수의 대표 관광지로 방파제로 육지와 연결되어 있다. 인근 낭만포차거리와 함께 여수 밤바다 관광의 중심지다.",
-    "nearby": [
-      {
-        "kind": "맛집",
-        "name": "낭만24포차",
-        "walk": "도보 15분"
-      },
-      {
-        "kind": "핫플",
-        "name": "여수 낭만포차거리",
-        "walk": "도보 15분"
-      },
-      {
-        "kind": "카페",
-        "name": "프롬나드",
-        "walk": "도보 15분"
-      }
-    ],
-    "featured": true,
-    "popularity": "national",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Yeosu_Odongdo_20180929_002.jpg/960px-Yeosu_Odongdo_20180929_002.jpg"
-  },
-  {
-    "id": "jeonnam-103",
-    "type": "architecture",
-    "name": "죽녹원",
-    "sido": "전라남도",
-    "address": "전라남도 담양군 담양읍 죽녹원로 119",
-    "phone": "061-380-2680",
-    "website": "https://www.juknokwon.go.kr/",
-    "hours": "하절기(3~10월) 09:00–19:00, 동절기(11~2월) 09:00–18:00",
-    "closed": "연중무휴",
-    "fee": "일반 3,000원, 청소년·군인 1,500원, 초등학생 1,000원(65세 이상 무료)",
-    "transit": "담양버스공용정류장에서 도보 이동",
-    "parking": "인근 공영주차장 이용",
-    "description": "울창한 대나무숲 산책로로 유명한 담양의 대표 관광지다. 인근에 떡갈비거리가 형성되어 있어 함께 즐기기 좋다.",
-    "nearby": [
-      {
-        "kind": "맛집",
-        "name": "옥빈관",
-        "walk": "도보 3분"
-      },
-      {
-        "kind": "맛집",
-        "name": "명가정",
-        "walk": "도보 5분"
-      },
-      {
-        "kind": "핫플",
-        "name": "관방제림",
-        "walk": "도보 10분"
-      }
-    ],
-    "featured": true,
-    "popularity": "national",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Damyang_Jungnogwon_%281%29.jpg/960px-Damyang_Jungnogwon_%281%29.jpg"
-  },
-  {
-    "id": "jeonnam-104",
-    "type": "architecture",
-    "name": "대한다원(보성 녹차밭)",
-    "sido": "전라남도",
-    "address": "전라남도 보성군 보성읍 녹차로 763-67",
-    "phone": "",
-    "website": "",
-    "hours": "하절기(3~10월) 09:00–18:00, 동절기(11~2월) 09:00–17:00",
-    "closed": "연중무휴",
-    "fee": "성인 4,000원, 청소년·65세 이상·군인 3,000원, 어린이 무료",
-    "transit": "보성버스터미널에서 시내버스 이용",
-    "parking": "무료 주차장 있음",
-    "description": "계단식으로 펼쳐진 녹차밭이 남해 바다까지 이어지는 국내 최대 규모 녹차 관광지다. 영화 촬영지로도 잘 알려져 있다.",
-    "nearby": [],
-    "featured": true,
-    "popularity": "national",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/%EB%8C%80%ED%95%9C%EB%8B%A4%EC%9B%90_%EC%B0%A8%EB%B0%AD.JPG/960px-%EB%8C%80%ED%95%9C%EB%8B%A4%EC%9B%90_%EC%B0%A8%EB%B0%AD.JPG"
-  },
-  {
     "id": "jeonnam-105",
     "type": "architecture",
     "name": "다산초당",
@@ -6831,25 +5897,6 @@
     "featured": false,
     "popularity": "regional",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Kim_Dae-jung_presidential_portrait.jpg/960px-Kim_Dae-jung_presidential_portrait.jpg"
-  },
-  {
-    "id": "jeonnam-109",
-    "type": "architecture",
-    "name": "갓바위 해상보행교",
-    "sido": "전라남도",
-    "address": "전라남도 목포시 남농로 166-1",
-    "phone": "",
-    "website": "",
-    "hours": "동절기 05:00–23:00, 하절기 05:00–24:00",
-    "closed": "연중무휴",
-    "fee": "무료",
-    "transit": "목포역에서 시내버스 이용",
-    "parking": "인근 공영주차장 이용",
-    "description": "갓을 쓴 사람 형상의 기암을 바다 위 보행교를 따라 감상할 수 있는 목포의 명소다. 김대중노벨평화상기념관과 인접해 있다.",
-    "nearby": [],
-    "featured": false,
-    "popularity": "regional",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Mokpo_Music_Fountain.jpg/960px-Mokpo_Music_Fountain.jpg"
   },
   {
     "id": "jeonnam-110",
@@ -7120,25 +6167,6 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Sosuseowon.jpg/960px-Sosuseowon.jpg"
   },
   {
-    "id": "gyeongbuk-112",
-    "type": "architecture",
-    "name": "문경새재도립공원",
-    "sido": "경상북도",
-    "address": "경상북도 문경시 문경읍 새재로 932",
-    "phone": "054-571-0709",
-    "website": "",
-    "hours": "09:00–18:00 (11~2월 09:00–17:00)",
-    "closed": "연중무휴",
-    "fee": "공원 무료 / 오픈세트장 성인 2,000원",
-    "transit": "문경시외버스터미널에서 시내버스 이용",
-    "parking": "유료 주차장(승용차 2,000원)",
-    "description": "조선시대 영남과 한양을 잇던 옛길이자 관문으로, 3개의 관문과 KBS 사극 오픈세트장이 있는 자연·역사 공원.",
-    "nearby": [],
-    "featured": false,
-    "popularity": "regional",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Saejae_third_gate_backside.jpg/960px-Saejae_third_gate_backside.jpg"
-  },
-  {
     "id": "gyeongbuk-113",
     "type": "architecture",
     "name": "청도 운문사",
@@ -7156,81 +6184,6 @@
     "featured": false,
     "popularity": "regional",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/%EC%9A%B4%EB%AC%B8%EC%82%AC_%EB%8C%80%EC%9B%85%EC%A0%84.jpg/960px-%EC%9A%B4%EB%AC%B8%EC%82%AC_%EB%8C%80%EC%9B%85%EC%A0%84.jpg"
-  },
-  {
-    "id": "gyeongbuk-114",
-    "type": "architecture",
-    "name": "호미곶 해맞이광장",
-    "sido": "경상북도",
-    "address": "경상북도 포항시 남구 호미곶면 대보리",
-    "phone": "054-270-5855",
-    "website": "https://homigot.org/",
-    "hours": "상시 개방",
-    "closed": "연중무휴",
-    "fee": "무료",
-    "transit": "포항 시외버스터미널에서 시내버스 이용",
-    "parking": "무료(500대 이상 수용)",
-    "description": "한반도 최동단 해맞이 명소로 '상생의 손' 조형물과 국내 최대 규모 등대박물관이 자리한다.",
-    "nearby": [],
-    "featured": false,
-    "popularity": "regional",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/New_millennium_park.jpg/960px-New_millennium_park.jpg"
-  },
-  {
-    "id": "jeju-101",
-    "type": "architecture",
-    "name": "성산일출봉",
-    "sido": "제주특별자치도",
-    "address": "제주특별자치도 서귀포시 성산읍 성산리 1",
-    "phone": "",
-    "website": "https://www.visitjeju.net",
-    "hours": "매표소 07:00 개장 (오전 7시 이전 무료 입장 가능)",
-    "closed": "연중무휴",
-    "fee": "유료 코스 있음 (구체 요금 확인 필요)",
-    "transit": "제주시외버스터미널에서 시외버스 이용",
-    "parking": "주차장 있음",
-    "description": "약 5천 년 전 수성화산 폭발로 형성된 응회구로 유네스코 세계자연유산이자 제주 대표 일출 명소.",
-    "nearby": [],
-    "featured": true,
-    "popularity": "national",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/%EC%84%B1%EC%82%B0%EC%9D%BC%EC%B6%9C%EB%B4%89_%EC%B2%9C%EC%97%B0%EB%B3%B4%ED%98%B8%EA%B5%AC%EC%97%AD_2019%EB%85%84_%EC%B4%AC%EC%98%81%28%EC%B6%9C%EC%B2%98_%EB%AC%B8%ED%99%94%EC%9E%AC%EC%B2%AD_%EB%8C%80%EB%B3%80%EC%9D%B8%EC%8B%A4%29.jpg/960px-%EC%84%B1%EC%82%B0%EC%9D%BC%EC%B6%9C%EB%B4%89_%EC%B2%9C%EC%97%B0%EB%B3%B4%ED%98%B8%EA%B5%AC%EC%97%AD_2019%EB%85%84_%EC%B4%AC%EC%98%81%28%EC%B6%9C%EC%B2%98_%EB%AC%B8%ED%99%94%EC%9E%AC%EC%B2%AD_%EB%8C%80%EB%B3%80%EC%9D%B8%EC%8B%A4%29.jpg"
-  },
-  {
-    "id": "jeju-102",
-    "type": "architecture",
-    "name": "만장굴",
-    "sido": "제주특별자치도",
-    "address": "제주특별자치도 제주시 구좌읍 만장굴길 182",
-    "phone": "064-710-7903",
-    "website": "",
-    "hours": "09:00–18:00",
-    "closed": "매월 첫째 주 수요일(문화가 있는 날, 확인 필요)",
-    "fee": "유료 (구체 요금 확인 필요)",
-    "transit": "제주시에서 구좌읍 방면 시외버스 이용",
-    "parking": "주차장 있음",
-    "description": "세계에서 가장 긴 용암동굴 중 하나로, 제2입구를 통해 약 1km 구간이 일반에 공개된 유네스코 세계자연유산.",
-    "nearby": [],
-    "featured": true,
-    "popularity": "national",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/%EB%A7%8C%EC%9E%A5%EA%B5%B4_%2824%29.jpg/960px-%EB%A7%8C%EC%9E%A5%EA%B5%B4_%2824%29.jpg"
-  },
-  {
-    "id": "jeju-103",
-    "type": "architecture",
-    "name": "카멜리아힐",
-    "sido": "제주특별자치도",
-    "address": "제주특별자치도 서귀포시 안덕면 병악로 166",
-    "phone": "",
-    "website": "https://www.camelliahill.co.kr/",
-    "hours": "08:30–18:00 (6~8월 08:30–19:00)",
-    "closed": "연중무휴",
-    "fee": "성인 약 10,000원 (시기별 변동, 홈페이지 확인 필요)",
-    "transit": "제주시외버스터미널에서 시내버스 이용",
-    "parking": "전용 주차장",
-    "description": "동양 최대 규모의 동백 수목원으로 겨울 동백은 물론 사계절 다양한 꽃을 감상할 수 있는 정원.",
-    "nearby": [],
-    "featured": false,
-    "popularity": "regional"
   },
   {
     "id": "jeju-104",
@@ -7270,25 +6223,6 @@
     "popularity": "regional"
   },
   {
-    "id": "jeju-106",
-    "type": "architecture",
-    "name": "산방산",
-    "sido": "제주특별자치도",
-    "address": "제주특별자치도 서귀포시 안덕면 사계리 산 16",
-    "phone": "064-794-2940",
-    "website": "",
-    "hours": "09:00–18:00",
-    "closed": "연중무휴",
-    "fee": "성인 1,000원 / 청소년·어린이 500원",
-    "transit": "제주시외버스터미널에서 시외버스 이용",
-    "parking": "산방산 길 건너편 무료 주차장 (유료 주차장 2,000원)",
-    "description": "약 80만 년 전 형성된 종상화산으로 산방굴사와 용머리해안을 함께 둘러볼 수 있는 서귀포 대표 지질명소.",
-    "nearby": [],
-    "featured": false,
-    "popularity": "regional",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Sanbangsan_%285983281424%29.jpg/960px-Sanbangsan_%285983281424%29.jpg"
-  },
-  {
     "id": "jeju-107",
     "type": "architecture",
     "name": "성읍민속마을",
@@ -7306,23 +6240,5 @@
     "featured": false,
     "popularity": "regional",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Seongeup_Historic_Village.jpg/960px-Seongeup_Historic_Village.jpg"
-  },
-  {
-    "id": "jeju-108",
-    "type": "architecture",
-    "name": "우도 등대공원",
-    "sido": "제주특별자치도",
-    "address": "제주특별자치도 제주시 우도면 조일리",
-    "phone": "064-782-5671",
-    "website": "",
-    "hours": "확인 필요 (성산항·종달항에서 페리 이용)",
-    "closed": "",
-    "fee": "우도 왕복 여객선 대인 약 11,500원 (등대공원 자체는 별도)",
-    "transit": "성산항 또는 종달항에서 페리로 약 15분",
-    "parking": "우도 내 주차 가능 구역 한정",
-    "description": "제주의 부속섬 우도에 위치한 공원으로 세계 각국의 등대 모형과 우도 등대에서 바라보는 쪽빛 바다 전망이 유명하다.",
-    "nearby": [],
-    "featured": false,
-    "popularity": "regional"
   }
 ]
