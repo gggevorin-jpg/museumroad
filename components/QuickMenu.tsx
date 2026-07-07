@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { Landmark, Palette, Building2, CalendarDays } from "lucide-react";
+import Reveal from "@/components/Reveal";
 
 const ITEMS = [
   { href: "/events?type=museum", label: "박물관", icon: Landmark },
@@ -10,21 +11,21 @@ const ITEMS = [
 
 export default function QuickMenu() {
   return (
-    <section className="mx-auto max-w-5xl px-4 py-14 sm:px-6">
-      <div className="grid grid-cols-2 gap-4 sm:grid-cols-4">
-        {ITEMS.map(({ href, label, icon: Icon }) => (
-          <Link
-            key={label}
-            href={href}
-            className="flex flex-col items-center gap-3 rounded-2xl border border-navy/10 bg-white p-6 text-center transition hover:-translate-y-1 hover:shadow-md"
-          >
-            <span className="flex h-12 w-12 items-center justify-center rounded-full bg-navy/5 text-navy">
-              <Icon size={24} />
-            </span>
-            <span className="text-sm font-semibold text-navy">{label}</span>
-          </Link>
-        ))}
-      </div>
+    <section className="mx-auto max-w-5xl px-4 py-16 sm:px-6 sm:py-20">
+      <Reveal>
+        <div className="grid grid-cols-2 gap-px overflow-hidden rounded-sm border border-line bg-line sm:grid-cols-4">
+          {ITEMS.map(({ href, label, icon: Icon }) => (
+            <Link
+              key={label}
+              href={href}
+              className="group flex flex-col items-center gap-3 bg-bg-elevated px-6 py-10 text-center transition-colors hover:bg-bg"
+            >
+              <Icon size={22} className="text-ink-soft transition-colors group-hover:text-accent" />
+              <span className="text-sm text-ink">{label}</span>
+            </Link>
+          ))}
+        </div>
+      </Reveal>
     </section>
   );
 }

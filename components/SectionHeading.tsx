@@ -14,15 +14,21 @@ export default function SectionHeading({
   theme = "light",
 }: SectionHeadingProps) {
   const alignClass = align === "center" ? "text-center items-center" : "text-left items-start";
-  const titleClass = theme === "dark" ? "text-ivory" : "text-navy";
-  const subtitleClass = theme === "dark" ? "text-ivory/60" : "text-navy/60";
+  const titleClass = theme === "dark" ? "text-bg" : "text-ink";
+  const subtitleClass = theme === "dark" ? "text-bg/60" : "text-ink-soft";
+  const overlineClass = theme === "dark" ? "text-bg/50" : "text-ink-soft";
+
   return (
-    <div className={`flex flex-col gap-3 mb-10 ${alignClass}`}>
-      <span className="inline-block w-fit rounded-full bg-gold/10 px-4 py-1 text-sm font-semibold tracking-wide text-gold">
+    <div className={`flex flex-col gap-4 mb-14 sm:mb-16 ${alignClass}`}>
+      <span
+        className={`text-xs font-medium tracking-[0.2em] uppercase ${overlineClass}`}
+      >
         {badge}
       </span>
-      <h2 className={`text-2xl sm:text-3xl md:text-4xl font-bold ${titleClass}`}>{title}</h2>
-      {subtitle && <p className={`max-w-2xl text-sm sm:text-base ${subtitleClass}`}>{subtitle}</p>}
+      <h2 className={`font-serif text-3xl sm:text-4xl ${titleClass}`}>{title}</h2>
+      {subtitle && (
+        <p className={`max-w-xl text-sm leading-7 sm:text-base ${subtitleClass}`}>{subtitle}</p>
+      )}
     </div>
   );
 }

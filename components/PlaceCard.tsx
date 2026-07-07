@@ -3,45 +3,43 @@ import { MapPin } from "lucide-react";
 import type { Place } from "@/lib/types";
 import { TYPE_LABEL } from "@/lib/data";
 
-const GRADIENTS: Record<Place["type"], string> = {
-  museum: "from-navy to-navy/70",
-  gallery: "from-gold to-navy",
-  architecture: "from-navy via-navy/80 to-gold/60",
+const TYPE_TINT: Record<Place["type"], string> = {
+  museum: "bg-cat-museum",
+  gallery: "bg-cat-gallery",
+  architecture: "bg-cat-architecture",
 };
 
 export default function PlaceCard({ place }: { place: Place }) {
   return (
-    <Link
-      href={`/place/${place.id}`}
-      className="group flex flex-col overflow-hidden rounded-2xl border border-navy/10 bg-white shadow-sm transition hover:shadow-lg"
-    >
-      <div className="relative flex h-36 items-end overflow-hidden p-4">
+    <Link href={`/place/${place.id}`} className="group flex flex-col">
+      <div className="relative aspect-[4/3] overflow-hidden rounded-sm">
         {place.image ? (
-          <>
-            <img
-              src={place.image}
-              alt={place.name}
-              loading="lazy"
-              className="absolute inset-0 h-full w-full object-cover transition duration-300 group-hover:scale-105"
-            />
-            <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-black/10 to-transparent" />
-          </>
+          <img
+            src={place.image}
+            alt={place.name}
+            loading="lazy"
+            className="absolute inset-0 h-full w-full object-cover transition-transform duration-[600ms] ease-out group-hover:scale-[1.04]"
+          />
         ) : (
-          <div className={`absolute inset-0 bg-gradient-to-br ${GRADIENTS[place.type]}`} />
+          <div
+            className={`absolute inset-0 flex items-center justify-center ${TYPE_TINT[place.type]}`}
+          >
+            <span className="font-serif text-6xl text-bg/40">{place.name.charAt(0)}</span>
+          </div>
         )}
-        <span className="relative rounded-full bg-white/90 px-3 py-1 text-xs font-semibold text-navy">
+      </div>
+      <div className="flex flex-col gap-1.5 pt-4">
+        <span className="text-[11px] tracking-[0.15em] text-ink-soft uppercase">
           {TYPE_LABEL[place.type]}
         </span>
-      </div>
-      <div className="flex flex-1 flex-col gap-2 p-4">
-        <h3 className="font-bold text-navy group-hover:text-gold transition-colors">
+        <h3 className="font-serif text-lg text-ink transition-colors group-hover:text-accent">
           {place.name}
         </h3>
-        <p className="flex items-center gap-1 text-xs text-navy/50">
-          <MapPin size={14} />
+        <p className="flex items-center gap-1 text-xs text-ink-soft">
+          <MapPin size={12} />
           {place.sido}
         </p>
-        <p className="line-clamp-2 text-sm text-navy/70">{place.description}</p>
+        <p className="line-clamp-2 text-sm leading-6 text-ink-soft">{place.description}</p>
       </div>
     </Link>
   );

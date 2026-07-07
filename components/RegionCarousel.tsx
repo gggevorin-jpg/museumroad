@@ -1,7 +1,6 @@
 "use client";
 
 import Link from "next/link";
-import { MapPin } from "lucide-react";
 import Carousel from "@/components/Carousel";
 import { SIDO_LIST, slugifySido, getPlacesBySido, TYPE_LABEL } from "@/lib/data";
 import type { Place } from "@/lib/types";
@@ -13,12 +12,11 @@ interface ShowcaseItem {
   place: Place;
 }
 
-const GRADIENTS = [
-  "from-navy to-navy/70",
-  "from-gold to-navy",
-  "from-navy via-navy/80 to-gold/60",
-  "from-navy to-gold/50",
-];
+const TYPE_TINT: Record<Place["type"], string> = {
+  museum: "bg-cat-museum",
+  gallery: "bg-cat-gallery",
+  architecture: "bg-cat-architecture",
+};
 
 function buildShowcase(): ShowcaseItem[] {
   return SIDO_LIST.map((sido) => {
@@ -38,43 +36,37 @@ export default function RegionCarousel() {
   return (
     <Carousel
       items={ITEMS}
+      cardWidth={230}
+      autoplayMs={3200}
       keyFor={(item) => item.slug}
-      renderItem={(item, i) => (
+      renderItem={(item) => (
         <Link
           href={`/region/${item.slug}`}
-          className="group relative flex h-full flex-col overflow-hidden rounded-2xl border border-navy/10 bg-white shadow-sm"
+          className="group relative block aspect-[3/4] w-full overflow-hidden rounded-sm"
         >
-          <div className="relative flex h-32 flex-col justify-between overflow-hidden p-3">
-            {item.place.image ? (
-              <>
-                <img
-                  src={item.place.image}
-                  alt={item.place.name}
-                  loading="lazy"
-                  className="absolute inset-0 h-full w-full object-cover transition duration-300 group-hover:scale-105"
-                />
-                <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/10 to-transparent" />
-              </>
-            ) : (
-              <div
-                className={`absolute inset-0 bg-gradient-to-br ${GRADIENTS[i % GRADIENTS.length]}`}
-              />
-            )}
-            <span className="relative w-fit rounded-full bg-white/90 px-2 py-0.5 text-[11px] font-semibold text-navy">
+          {item.place.image ? (
+            <img
+              src={item.place.image}
+              alt={item.place.name}
+              loading="lazy"
+              className="absolute inset-0 h-full w-full object-cover transition-transform duration-[600ms] ease-out group-hover:scale-[1.04]"
+            />
+          ) : (
+            <div
+              className={`absolute inset-0 flex items-center justify-center ${
+                TYPE_TINT[item.place.type]
+              }`}
+            >
+              <span className="font-serif text-7xl text-bg/40">{item.sido.charAt(0)}</span>
+            </div>
+          )}
+          <div className="absolute inset-0 bg-gradient-to-t from-ink/85 via-ink/10 to-transparent" />
+          <div className="absolute inset-x-0 bottom-0 flex flex-col gap-1 p-4">
+            <span className="text-[11px] tracking-[0.15em] uppercase text-bg/60">
               {TYPE_LABEL[item.place.type]}
             </span>
-            <span className="relative text-xs font-medium text-ivory/90">
-              대표 · {item.place.name}
-            </span>
-          </div>
-          <div className="flex flex-col gap-1 p-3">
-            <span className="font-bold text-navy group-hover:text-gold transition-colors">
-              {item.sido}
-            </span>
-            <span className="flex items-center gap-1 text-xs text-navy/50">
-              <MapPin size={12} />
-              {item.count}곳
-            </span>
+            <span className="font-serif text-xl text-bg">{item.sido}</span>
+            <span className="text-xs text-bg/60">{item.count}곳</span>
           </div>
         </Link>
       )}

@@ -1,10 +1,16 @@
-"use client";
-
 import Link from "next/link";
-import { CalendarDays } from "lucide-react";
+import { ArrowRight } from "lucide-react";
 import SectionHeading from "@/components/SectionHeading";
-import Carousel from "@/components/Carousel";
+import Reveal from "@/components/Reveal";
 import { events, isOngoing, getPlaceById } from "@/lib/data";
+
+function formatDay(dateStr: string) {
+  const d = new Date(dateStr);
+  return {
+    day: d.getDate(),
+    month: d.toLocaleDateString("ko-KR", { month: "short" }),
+  };
+}
 
 export default function OngoingExhibitions() {
   const ongoing = events
@@ -19,38 +25,52 @@ export default function OngoingExhibitions() {
   if (ongoing.length === 0) return null;
 
   return (
-    <section className="bg-white px-4 py-16 sm:px-6">
-      <div className="mx-auto max-w-6xl">
-        <SectionHeading
-          badge="지금 만나는 전시"
-          title="진행 중인 전시"
-          subtitle="현재 관람할 수 있는 전국의 전시를 모았어요."
-          align="left"
-        />
-        <Carousel
-          items={ongoing}
-          cardWidth={280}
-          edgeFadeClassName="from-white"
-          keyFor={({ event }) => `${event.placeId}-${event.title}`}
-          renderItem={({ event, place }) => (
-            <Link
-              href={`/place/${event.placeId}`}
-              className="flex h-full flex-col gap-2 rounded-xl border border-navy/10 p-5 transition hover:border-gold hover:shadow-md"
-            >
-              <span className="flex items-center gap-1 text-xs font-medium text-gold">
-                <CalendarDays size={14} />
-                {event.start} ~ {event.end}
-              </span>
-              <h3 className="font-bold text-navy">{event.title}</h3>
-              <p className="text-sm text-navy/60">{place.name}</p>
-            </Link>
-          )}
-        />
-        <div className="mt-8 text-center">
-          <Link
-            href="/events"
-            className="inline-block rounded-full border border-navy/20 px-6 py-2 text-sm font-semibold text-navy transition hover:border-gold hover:text-gold"
-          >
+    <section className="bg-bg-elevated px-4 py-24 sm:px-6 sm:py-32">
+      <div className="mx-auto max-w-4xl">
+        <Reveal>
+          <SectionHeading
+            badge="Now Showing"
+            title="진행 중인 전시"
+            subtitle="현재 관람할 수 있는 전국의 전시를 모았어요."
+            align="left"
+          />
+        </Reveal>
+
+        <div className="flex flex-col border-t border-line">
+          {ongoing.map(({ event, place }, i) => {
+            const { day, month } = formatDay(event.start);
+            return (
+              <Reveal key={`${event.placeId}-${event.title}`} delay={i * 40}>
+                <Link
+                  href={`/place/${event.placeId}`}
+                  className="group flex items-center gap-6 border-b border-line px-2 py-6 transition-colors hover:bg-bg sm:gap-10 sm:px-4"
+                >
+                  <div className="flex w-14 shrink-0 flex-col items-center leading-none sm:w-16">
+                    <span className="font-serif text-3xl text-ink sm:text-4xl">{day}</span>
+                    <span className="mt-1 text-[11px] tracking-widest text-ink-soft uppercase">
+                      {month}
+                    </span>
+                  </div>
+                  <div className="flex min-w-0 flex-1 flex-col gap-1">
+                    <h3 className="truncate font-serif text-lg text-ink sm:text-xl">
+                      {event.title}
+                    </h3>
+                    <p className="text-xs text-ink-soft sm:text-sm">
+                      {place.name} · {place.sido}
+                    </p>
+                  </div>
+                  <ArrowRight
+                    size={18}
+                    className="shrink-0 -translate-x-2 text-ink-soft opacity-0 transition-all duration-300 group-hover:translate-x-0 group-hover:text-accent group-hover:opacity-100"
+                  />
+                </Link>
+              </Reveal>
+            );
+          })}
+        </div>
+
+        <div className="mt-10 text-center">
+          <Link href="/events" className="link-underline text-sm text-ink">
             전체 전시 일정 보기
           </Link>
         </div>

@@ -22,7 +22,7 @@ export default function Carousel<T>({
   visible = 4,
   gap = 16,
   autoplayMs = 2000,
-  edgeFadeClassName = "from-ivory",
+  edgeFadeClassName = "from-bg",
 }: CarouselProps<T>) {
   const BASE = items;
   const STEP = cardWidth + gap;
@@ -118,17 +118,17 @@ export default function Carousel<T>({
             type="button"
             onClick={() => go(-1)}
             aria-label="이전"
-            className="absolute left-1 top-16 z-20 flex h-9 w-9 -translate-y-1/2 items-center justify-center rounded-full bg-orange-500 text-white shadow-md transition hover:bg-orange-600"
+            className="absolute left-1 top-1/2 z-20 flex h-9 w-9 -translate-y-1/2 items-center justify-center rounded-full bg-bg-elevated/90 text-ink shadow-sm ring-1 ring-line transition hover:bg-accent hover:text-bg"
           >
-            <ChevronLeft size={20} />
+            <ChevronLeft size={18} />
           </button>
           <button
             type="button"
             onClick={() => go(1)}
             aria-label="다음"
-            className="absolute right-1 top-16 z-20 flex h-9 w-9 -translate-y-1/2 items-center justify-center rounded-full bg-orange-500 text-white shadow-md transition hover:bg-orange-600"
+            className="absolute right-1 top-1/2 z-20 flex h-9 w-9 -translate-y-1/2 items-center justify-center rounded-full bg-bg-elevated/90 text-ink shadow-sm ring-1 ring-line transition hover:bg-accent hover:text-bg"
           >
-            <ChevronRight size={20} />
+            <ChevronRight size={18} />
           </button>
         </>
       )}
