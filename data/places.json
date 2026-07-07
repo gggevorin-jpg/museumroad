@@ -267,7 +267,8 @@
         "walk": "도보 5분"
       }
     ],
-    "featured": true
+    "featured": true,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/141022%EB%B0%A9%EB%B0%B0119%EC%95%88%EC%A0%84%EC%84%BC%ED%84%B0_%EC%B6%94%EA%B3%84_%EC%9B%8C%ED%81%AC%EC%83%B531.JPG/960px-141022%EB%B0%A9%EB%B0%B0119%EC%95%88%EC%A0%84%EC%84%BC%ED%84%B0_%EC%B6%94%EA%B3%84_%EC%9B%8C%ED%81%AC%EC%83%B531.JPG"
   },
   {
     "id": "gyeonggi-002",
@@ -2225,7 +2226,8 @@
       }
     ],
     "featured": true,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/%EA%B4%91%ED%99%94%EB%AC%B8_%EC%9B%94%EB%8C%80.jpg/960px-%EA%B4%91%ED%99%94%EB%AC%B8_%EC%9B%94%EB%8C%80.jpg"
   },
   {
     "id": "seoul-102",
@@ -2259,7 +2261,8 @@
       }
     ],
     "featured": true,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/%EC%B0%BD%EB%8D%95%EA%B6%81_%EC%A0%84%EA%B2%BD_%282012%29.jpg/960px-%EC%B0%BD%EB%8D%95%EA%B6%81_%EC%A0%84%EA%B2%BD_%282012%29.jpg"
   },
   {
     "id": "seoul-103",
@@ -2293,7 +2296,8 @@
       }
     ],
     "featured": true,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/%EB%8D%95%EC%88%98%EA%B6%81_%EC%A0%84%EA%B2%BD_%282013%29.jpg/960px-%EB%8D%95%EC%88%98%EA%B6%81_%EC%A0%84%EA%B2%BD_%282013%29.jpg"
   },
   {
     "id": "seoul-104",
@@ -2327,7 +2331,8 @@
       }
     ],
     "featured": true,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Jeongjeon%2C_Jongmyo_%28Summer%2C_2013%29.jpg/960px-Jeongjeon%2C_Jongmyo_%28Summer%2C_2013%29.jpg"
   },
   {
     "id": "seoul-105",
@@ -2361,7 +2366,8 @@
       }
     ],
     "featured": true,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Seoul_Tower_%284394893276%29.jpg"
   },
   {
     "id": "seoul-106",
@@ -2395,7 +2401,8 @@
       }
     ],
     "featured": false,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/The_War_Memorial_Of_Korea_240615_02.jpg/960px-The_War_Memorial_Of_Korea_240615_02.jpg"
   },
   {
     "id": "seoul-107",
@@ -2429,7 +2436,8 @@
       }
     ],
     "featured": false,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Korea-Seoul-National.folk.museum-01.JPG/960px-Korea-Seoul-National.folk.museum-01.JPG"
   },
   {
     "id": "seoul-108",
@@ -2463,7 +2471,8 @@
       }
     ],
     "featured": false,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/National_Palace_Museum_of_Korea_20240409_004.jpg/960px-National_Palace_Museum_of_Korea_20240409_004.jpg"
   },
   {
     "id": "seoul-109",
@@ -2531,7 +2540,8 @@
       }
     ],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/%EC%84%9C%EC%9A%B8%EC%97%AD%EC%82%AC%EB%B0%95%EB%AC%BC%EA%B4%80_%EB%A1%9C%EA%B3%A0.jpg/960px-%EC%84%9C%EC%9A%B8%EC%97%AD%EC%82%AC%EB%B0%95%EB%AC%BC%EA%B4%80_%EB%A1%9C%EA%B3%A0.jpg"
   },
   {
     "id": "seoul-111",
@@ -2565,7 +2575,8 @@
       }
     ],
     "featured": true,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Seoul_Museum_of_Art_%282014%29.jpg/960px-Seoul_Museum_of_Art_%282014%29.jpg"
   },
   {
     "id": "seoul-112",
@@ -2599,7 +2610,8 @@
       }
     ],
     "featured": false,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Daelim_Museum.jpg/960px-Daelim_Museum.jpg"
   },
   {
     "id": "seoul-113",
@@ -2667,7 +2679,8 @@
       }
     ],
     "featured": true,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Seoul_Arts_Center_20.JPG/960px-Seoul_Arts_Center_20.JPG"
   },
   {
     "id": "seoul-115",
@@ -2701,7 +2714,8 @@
       }
     ],
     "featured": true,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Lotte_World_morning_view_8.jpg/960px-Lotte_World_morning_view_8.jpg"
   },
   {
     "id": "seoul-116",
@@ -2735,7 +2749,8 @@
       }
     ],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/%ED%99%98%EA%B8%B0%EB%AF%B8%EC%88%A0%EA%B4%80_%EC%99%B8%EB%B6%80.jpg/960px-%ED%99%98%EA%B8%B0%EB%AF%B8%EC%88%A0%EA%B4%80_%EC%99%B8%EB%B6%80.jpg"
   },
   {
     "id": "seoul-117",
@@ -2769,7 +2784,8 @@
       }
     ],
     "featured": false,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/%EA%B0%84%EC%86%A1%EB%AF%B8%EC%88%A0%EA%B4%80_1970.jpg"
   },
   {
     "id": "seoul-118",
@@ -2871,7 +2887,8 @@
       }
     ],
     "featured": false,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/%EC%84%9C%EB%8C%80%EB%AC%B8_%ED%98%95%EB%AC%B4%EC%86%8C_%EC%A0%84%EA%B2%BD.jpg/960px-%EC%84%9C%EB%8C%80%EB%AC%B8_%ED%98%95%EB%AC%B4%EC%86%8C_%EC%A0%84%EA%B2%BD.jpg"
   },
   {
     "id": "seoul-121",
@@ -2905,7 +2922,8 @@
       }
     ],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Namsangol_Hanok_Village%2C_Seoul_%284%29_%2826259903367%29.jpg/960px-Namsangol_Hanok_Village%2C_Seoul_%284%29_%2826259903367%29.jpg"
   },
   {
     "id": "seoul-122",
@@ -2939,7 +2957,8 @@
       }
     ],
     "featured": false,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/%EC%B0%BD%EA%B2%BD%EA%B6%81_%EC%A0%95%EB%A9%B4_%EC%A0%84%EA%B2%BD1_%282014%29.jpg/960px-%EC%B0%BD%EA%B2%BD%EA%B6%81_%EC%A0%95%EB%A9%B4_%EC%A0%84%EA%B2%BD1_%282014%29.jpg"
   },
   {
     "id": "seoul-123",
@@ -3007,7 +3026,8 @@
       }
     ],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/ArtSonje_Center_November_2015.jpg/960px-ArtSonje_Center_November_2015.jpg"
   },
   {
     "id": "seoul-125",
@@ -3109,7 +3129,8 @@
       }
     ],
     "featured": true,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cheongwadae_Logo_%282013-2022%29.svg/960px-Cheongwadae_Logo_%282013-2022%29.svg.png"
   },
   {
     "id": "seoul-128",
@@ -3143,7 +3164,8 @@
       }
     ],
     "featured": false,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/63_Building.jpg/960px-63_Building.jpg"
   },
   {
     "id": "seoul-129",
@@ -3177,7 +3199,8 @@
       }
     ],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/KOCIS_Korean_meal_table_%284553953910%29.jpg"
   },
   {
     "id": "seoul-130",
@@ -3211,7 +3234,8 @@
       }
     ],
     "featured": false,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/COEX_Aqurium_2016.jpg/960px-COEX_Aqurium_2016.jpg"
   },
   {
     "id": "incheon-101",
@@ -3245,7 +3269,8 @@
       }
     ],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/%EC%9D%B8%EC%B2%9C%EC%83%81%EB%A5%99%EC%9E%91%EC%A0%84%EA%B8%B0%EB%85%90%EA%B4%80_625%EC%97%B0%ED%95%A9%EA%B5%B0_%EC%A7%80%EC%9B%90%EA%B5%AD%EA%B5%AD%EA%B8%B0%EA%B3%84%EC%96%91%EB%8C%80_%EC%98%81%EA%B5%AD%EB%B6%80%ED%84%B0%EB%8F%85%EC%9D%BC%EA%B9%8C%EC%A7%80_2024.jpg/960px-%EC%9D%B8%EC%B2%9C%EC%83%81%EB%A5%99%EC%9E%91%EC%A0%84%EA%B8%B0%EB%85%90%EA%B4%80_625%EC%97%B0%ED%95%A9%EA%B5%B0_%EC%A7%80%EC%9B%90%EA%B5%AD%EA%B5%AD%EA%B8%B0%EA%B3%84%EC%96%91%EB%8C%80_%EC%98%81%EA%B5%AD%EB%B6%80%ED%84%B0%EB%8F%85%EC%9D%BC%EA%B9%8C%EC%A7%80_2024.jpg"
   },
   {
     "id": "incheon-102",
@@ -3279,7 +3304,8 @@
       }
     ],
     "featured": true,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Jjajangmyeon_Museum%2C_2013.jpg/960px-Jjajangmyeon_Museum%2C_2013.jpg"
   },
   {
     "id": "incheon-103",
@@ -3415,7 +3441,8 @@
       }
     ],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/%EB%8C%80%EB%B6%88%ED%98%B8%ED%85%94.jpg/960px-%EB%8C%80%EB%B6%88%ED%98%B8%ED%85%94.jpg"
   },
   {
     "id": "incheon-107",
@@ -3449,7 +3476,8 @@
       }
     ],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Songam_Art_Museum_191123001.jpg/960px-Songam_Art_Museum_191123001.jpg"
   },
   {
     "id": "incheon-108",
@@ -3517,7 +3545,8 @@
       }
     ],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Former_Incheon_18_Bank_01.JPG/960px-Former_Incheon_18_Bank_01.JPG"
   },
   {
     "id": "incheon-110",
@@ -3641,7 +3670,8 @@
     "description": "분단의 상징인 임진각 일대에 조성된 평화 테마 공원으로 잔디광장과 조형물이 있다.",
     "nearby": [],
     "featured": true,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Imjingak_001.jpg/960px-Imjingak_001.jpg"
   },
   {
     "id": "gyeonggi-106",
@@ -3677,7 +3707,8 @@
     "description": "유네스코 세계유산 남한산성의 역사와 축성 과정을 전시하는 역사문화관이다.",
     "nearby": [],
     "featured": true,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Namhanssanseong.JPG/960px-Namhanssanseong.JPG"
   },
   {
     "id": "gyeonggi-108",
@@ -3695,7 +3726,8 @@
     "description": "폐채석장을 재생한 문화예술 공간으로 천주호와 모노레일, 조각공원이 있다.",
     "nearby": [],
     "featured": true,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Art_Valley_In_Korea_%2865750913%29.jpeg/960px-Art_Valley_In_Korea_%2865750913%29.jpeg"
   },
   {
     "id": "gyeonggi-109",
@@ -3767,7 +3799,8 @@
     "description": "옛 폐광을 예술과 빛의 공간으로 재탄생시킨 동굴 테마 관광지이다.",
     "nearby": [],
     "featured": true,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Gwangmyeong_Cave.jpg/960px-Gwangmyeong_Cave.jpg"
   },
   {
     "id": "gyeonggi-113",
@@ -3821,7 +3854,8 @@
     "description": "삼성미술관 리움의 자매관으로 전통미술과 정원 희원(希園)으로 유명하다.",
     "nearby": [],
     "featured": true,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Hoammuseum.jpg/960px-Hoammuseum.jpg"
   },
   {
     "id": "gyeonggi-116",
@@ -3839,7 +3873,8 @@
     "description": "전통 등잔과 민속 생활용품을 수집·전시하는 국내 유일의 등잔 전문 박물관이다.",
     "nearby": [],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/%ED%95%9C%EA%B5%AD%EB%93%B1%EC%9E%94%EB%B0%95%EB%AC%BC%EA%B4%80_%282%29.jpg/960px-%ED%95%9C%EA%B5%AD%EB%93%B1%EC%9E%94%EB%B0%95%EB%AC%BC%EA%B4%80_%282%29.jpg"
   },
   {
     "id": "gyeonggi-117",
@@ -3875,7 +3910,8 @@
     "description": "세계유산 수원화성의 축성 역사와 유물을 전시하는 박물관이다.",
     "nearby": [],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Suwon_Hwaseong_Museum_20240929_001.jpg/960px-Suwon_Hwaseong_Museum_20240929_001.jpg"
   },
   {
     "id": "gyeonggi-119",
@@ -3893,7 +3929,8 @@
     "description": "한국 정원 양식을 살린 대표적인 수목원으로 사계절 테마 정원과 야간 별빛정원전이 유명하다.",
     "nearby": [],
     "featured": true,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Morning_Calm_Arboretum_Sign.jpg/960px-Morning_Calm_Arboretum_Sign.jpg"
   },
   {
     "id": "gyeonggi-120",
@@ -3911,7 +3948,8 @@
     "description": "유럽식 정원과 온실, 조각 작품이 어우러진 사립 수목원이다.",
     "nearby": [],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/20241207_Ez2AC_%EB%B2%BD%EC%B4%88%EC%A7%80%EC%88%98%EB%AA%A9%EC%9B%90.jpg/960px-20241207_Ez2AC_%EB%B2%BD%EC%B4%88%EC%A7%80%EC%88%98%EB%AA%A9%EC%9B%90.jpg"
   },
   {
     "id": "gyeonggi-121",
@@ -3929,7 +3967,8 @@
     "description": "연꽃과 물을 주제로 조성된 정원으로 두물머리와 인접해 있다.",
     "nearby": [],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/%EC%84%B8%EB%AF%B8%EC%97%B0_%2826%29.JPG/960px-%EC%84%B8%EB%AF%B8%EC%97%B0_%2826%29.JPG"
   },
   {
     "id": "gyeonggi-122",
@@ -3983,7 +4022,8 @@
     "description": "드라마 대장금 등을 촬영한 사극 전문 오픈세트장이다.",
     "nearby": [],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Jumong_site_2.jpg/960px-Jumong_site_2.jpg"
   },
   {
     "id": "gyeonggi-125",
@@ -4001,7 +4041,8 @@
     "description": "프랑스 소설가 생텍쥐페리의 세계와 유럽풍 건축을 테마로 한 마을이다.",
     "nearby": [],
     "featured": true,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Petite_France_Gapyeong_2016-11-15_19_27_58_30883764212.jpg/960px-Petite_France_Gapyeong_2016-11-15_19_27_58_30883764212.jpg"
   },
   {
     "id": "gyeonggi-126",
@@ -4037,7 +4078,8 @@
     "description": "한탄강 유네스코 세계지질공원 내 위치한 높이 약 18m의 폭포로 출렁다리가 있다.",
     "nearby": [],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Jaein_Pokpo_180519001.jpg/960px-Jaein_Pokpo_180519001.jpg"
   },
   {
     "id": "gyeonggi-128",
@@ -4055,7 +4097,8 @@
     "description": "임진각에서 민통선 이북 캠프 그리브스까지 오가는 곤돌라로 DMZ 일대를 조망한다.",
     "nearby": [],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Imjingak_001.jpg/960px-Imjingak_001.jpg"
   },
   {
     "id": "gyeonggi-129",
@@ -4091,7 +4134,8 @@
     "description": "국내 최대 규모의 인공호수공원으로 조형물과 산책로가 조성되어 있다.",
     "nearby": [],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Goyang_Lake_Park.jpg/960px-Goyang_Lake_Park.jpg"
   },
   {
     "id": "gangwon-101",
@@ -4109,7 +4153,8 @@
     "description": "메타세쿼이아길과 자연 경관으로 유명한 섬 관광지로 각종 영화·드라마 촬영지이다.",
     "nearby": [],
     "featured": true,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Nami_island_winter.jpg/960px-Nami_island_winter.jpg"
   },
   {
     "id": "gangwon-102",
@@ -4127,7 +4172,8 @@
     "description": "해안 절벽 위에 실제 유람선 형태로 지어진 테마형 리조트로 정동진 해돋이 명소이다.",
     "nearby": [],
     "featured": true,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Korea-Gangneung-Jeongdongjin-Sun_Cruise_Hotel-01.jpg/960px-Korea-Gangneung-Jeongdongjin-Sun_Cruise_Hotel-01.jpg"
   },
   {
     "id": "gangwon-103",
@@ -4145,7 +4191,8 @@
     "description": "한국 애니메이션의 역사와 캐릭터를 전시하는 국내 유일의 애니메이션 전문 박물관이다.",
     "nearby": [],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Animation_Museum_of_South_Korea_02.jpg/960px-Animation_Museum_of_South_Korea_02.jpg"
   },
   {
     "id": "gangwon-104",
@@ -4181,7 +4228,8 @@
     "description": "국내 최대 규모의 탄광 역사 박물관으로 갱도 체험이 가능하다.",
     "nearby": [],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/TC-M1.jpg/960px-TC-M1.jpg"
   },
   {
     "id": "gangwon-106",
@@ -4235,7 +4283,8 @@
     "description": "천연기념물로 지정된 석회동굴로 모노레일을 타고 오를 수 있다.",
     "nearby": [],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/%EC%A0%95%EC%84%A0_%ED%99%94%EC%95%94%EB%8F%99%EA%B5%B4.jpg"
   },
   {
     "id": "gangwon-109",
@@ -4253,7 +4302,8 @@
     "description": "한탄강 협곡의 기암과 정자, 꽃밭으로 유명한 철원의 대표 명소이다.",
     "nearby": [],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Goseokjeong%2C_a_natural_tower_of_granite_rock%2C_at_Hantan_River.jpg/960px-Goseokjeong%2C_a_natural_tower_of_granite_rock%2C_at_Hantan_River.jpg"
   },
   {
     "id": "gangwon-110",
@@ -4343,7 +4393,8 @@
       }
     ],
     "featured": true,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/%EC%B2%AD%EB%82%A8%EB%8C%80_%EB%B3%B8%EA%B4%80_%282%29.JPG/960px-%EC%B2%AD%EB%82%A8%EB%8C%80_%EB%B3%B8%EA%B4%80_%282%29.JPG"
   },
   {
     "id": "chungbuk-104",
@@ -4439,7 +4490,8 @@
       }
     ],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/%EB%8B%A8%EC%96%91_%EA%B3%A0%EC%88%98%EB%8F%99%EA%B5%B4_17.jpg/960px-%EB%8B%A8%EC%96%91_%EA%B3%A0%EC%88%98%EB%8F%99%EA%B5%B4_17.jpg"
   },
   {
     "id": "chungbuk-108",
@@ -4487,7 +4539,8 @@
       }
     ],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/%EC%A0%95%EC%9D%B4%ED%92%88%EC%86%A1.jpg/960px-%EC%A0%95%EC%9D%B4%ED%92%88%EC%86%A1.jpg"
   },
   {
     "id": "chungbuk-110",
@@ -4511,7 +4564,8 @@
       }
     ],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Achasan_GeneralOndal.jpg/960px-Achasan_GeneralOndal.jpg"
   },
   {
     "id": "chungnam-101",
@@ -4559,7 +4613,8 @@
       }
     ],
     "featured": true,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/%ED%98%84%EC%B6%A9%EC%82%AC%28Hyeonchoong-sa%29_01.jpg/960px-%ED%98%84%EC%B6%A9%EC%82%AC%28Hyeonchoong-sa%29_01.jpg"
   },
   {
     "id": "chungnam-103",
@@ -4583,7 +4638,8 @@
       }
     ],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/%EC%A0%9C4%EA%B2%BD_%EA%B0%9C%EC%8B%AC%EC%82%AC.jpg/960px-%EC%A0%9C4%EA%B2%BD_%EA%B0%9C%EC%8B%AC%EC%82%AC.jpg"
   },
   {
     "id": "chungnam-104",
@@ -4607,7 +4663,8 @@
       }
     ],
     "featured": true,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/%EC%A0%9C1%EA%B2%BD_%ED%95%B4%EB%AF%B8%EC%9D%8D%EC%84%B1.jpg/960px-%EC%A0%9C1%EA%B2%BD_%ED%95%B4%EB%AF%B8%EC%9D%8D%EC%84%B1.jpg"
   },
   {
     "id": "chungnam-105",
@@ -4655,7 +4712,8 @@
       }
     ],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%EA%B4%80%EC%B4%89%EC%82%AC_%EC%84%9D%EC%A1%B0%EB%AF%B8%EB%A5%B5%EB%B3%B4%EC%82%B4%EC%9E%85%EC%83%81.jpg/960px-%EA%B4%80%EC%B4%89%EC%82%AC_%EC%84%9D%EC%A1%B0%EB%AF%B8%EB%A5%B5%EB%B3%B4%EC%82%B4%EC%9E%85%EC%83%81.jpg"
   },
   {
     "id": "chungnam-107",
@@ -4727,7 +4785,8 @@
       }
     ],
     "featured": true,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/20140809_%EB%A7%88%EA%B3%A1%EC%82%AC_%EB%8C%80%EA%B4%91%EB%B3%B4%EC%A0%84.jpg/960px-20140809_%EB%A7%88%EA%B3%A1%EC%82%AC_%EB%8C%80%EA%B4%91%EB%B3%B4%EC%A0%84.jpg"
   },
   {
     "id": "chungnam-110",
@@ -4756,7 +4815,8 @@
       }
     ],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Taean-map.png/960px-Taean-map.png"
   },
   {
     "id": "sejong-101",
@@ -4828,7 +4888,8 @@
       }
     ],
     "featured": true,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/%EB%B2%A0%EC%9D%B4%ED%8A%B8%EB%A6%AC%ED%8C%8C%ED%81%AC1.jpg"
   },
   {
     "id": "sejong-104",
@@ -4852,7 +4913,8 @@
       }
     ],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/%EB%B9%84%EC%95%94%EC%82%AC.jpg/960px-%EB%B9%84%EC%95%94%EC%82%AC.jpg"
   },
   {
     "id": "sejong-105",
@@ -4934,7 +4996,8 @@
       }
     ],
     "featured": true,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Gamcheon_Colored_Houses%2C_Busan%2C_Korea.jpg/960px-Gamcheon_Colored_Houses%2C_Busan%2C_Korea.jpg"
   },
   {
     "id": "busan-102",
@@ -4968,7 +5031,8 @@
       }
     ],
     "featured": true,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/%ED%95%B4%EB%8F%99%EC%9A%A9%EA%B6%81%EC%82%AC_%EC%82%AC%EC%B0%B0_%EC%A0%84%EA%B2%BD.jpg/960px-%ED%95%B4%EB%8F%99%EC%9A%A9%EA%B6%81%EC%82%AC_%EC%82%AC%EC%B0%B0_%EC%A0%84%EA%B2%BD.jpg"
   },
   {
     "id": "busan-103",
@@ -5002,7 +5066,8 @@
       }
     ],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Yigidae_park.jpg/960px-Yigidae_park.jpg"
   },
   {
     "id": "busan-104",
@@ -5070,7 +5135,8 @@
       }
     ],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/National_Memorial_Museum_of_Forced_Mobilization_under_Japanese_Occupation.JPG/960px-National_Memorial_Museum_of_Forced_Mobilization_under_Japanese_Occupation.JPG"
   },
   {
     "id": "busan-106",
@@ -5172,7 +5238,8 @@
       }
     ],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Busan_Modern_History_Museum-01.jpg"
   },
   {
     "id": "busan-109",
@@ -5206,7 +5273,8 @@
       }
     ],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/UN_Memorial_Cemetery.JPG"
   },
   {
     "id": "busan-110",
@@ -5240,7 +5308,8 @@
       }
     ],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Oryuk-do.jpg/960px-Oryuk-do.jpg"
   },
   {
     "id": "daegu-101",
@@ -5274,7 +5343,8 @@
       }
     ],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Daegu_Modern_History_Museum.JPG/960px-Daegu_Modern_History_Museum.JPG"
   },
   {
     "id": "daegu-102",
@@ -5376,7 +5446,8 @@
       }
     ],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Yangnyeongsi_Oriental_Medicine_Museum_%28Daegu%29_20221126_001.jpg/960px-Yangnyeongsi_Oriental_Medicine_Museum_%28Daegu%29_20221126_001.jpg"
   },
   {
     "id": "daegu-105",
@@ -5444,7 +5515,8 @@
       }
     ],
     "featured": false,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/11%EA%B2%BD_83%ED%83%80%EC%9B%8C.jpg"
   },
   {
     "id": "daegu-107",
@@ -5512,7 +5584,8 @@
       }
     ],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/National_Debt_Repayment_Movement_Park-1.jpg/960px-National_Debt_Repayment_Movement_Park-1.jpg"
   },
   {
     "id": "daegu-109",
@@ -5580,7 +5653,8 @@
       }
     ],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Suseonglakeducks.JPG/960px-Suseonglakeducks.JPG"
   },
   {
     "id": "ulsan-101",
@@ -5614,7 +5688,8 @@
       }
     ],
     "featured": true,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/KU-Dwa2.jpg/960px-KU-Dwa2.jpg"
   },
   {
     "id": "ulsan-102",
@@ -5648,7 +5723,8 @@
       }
     ],
     "featured": false,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Bangudae3.jpg/960px-Bangudae3.jpg"
   },
   {
     "id": "ulsan-103",
@@ -5682,7 +5758,8 @@
       }
     ],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ulsan_Petroglyph_Museum2.JPG/960px-Ulsan_Petroglyph_Museum2.JPG"
   },
   {
     "id": "ulsan-104",
@@ -5750,7 +5827,8 @@
       }
     ],
     "featured": false,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Ganjeolgot%2C_Ulsan_on_August_16th%2C_2018.jpg/960px-Ganjeolgot%2C_Ulsan_on_August_16th%2C_2018.jpg"
   },
   {
     "id": "ulsan-106",
@@ -5818,7 +5896,8 @@
       }
     ],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/%EC%9A%B8%EC%82%B0%EB%8C%80%EA%B3%B5%EC%9B%90_%ED%98%84%EC%B6%A9%ED%83%91_20170524_161927.jpg/960px-%EC%9A%B8%EC%82%B0%EB%8C%80%EA%B3%B5%EC%9B%90_%ED%98%84%EC%B6%A9%ED%83%91_20170524_161927.jpg"
   },
   {
     "id": "ulsan-108",
@@ -5852,7 +5931,8 @@
       }
     ],
     "featured": true,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/%ED%83%9C%ED%99%94%EA%B0%95_%EA%B5%AD%EA%B0%80%EC%A0%95%EC%9B%90.jpg"
   },
   {
     "id": "gyeongnam-101",
@@ -5954,7 +6034,8 @@
       }
     ],
     "featured": false,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Tongyeong_Cable_Car.jpg/960px-Tongyeong_Cable_Car.jpg"
   },
   {
     "id": "gyeongnam-104",
@@ -5988,7 +6069,8 @@
       }
     ],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Clayarch_Gimhae_Museum.JPG/960px-Clayarch_Gimhae_Museum.JPG"
   },
   {
     "id": "gyeongnam-105",
@@ -6022,7 +6104,8 @@
       }
     ],
     "featured": true,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Jinju_castle-Chosuk_gate.jpg/960px-Jinju_castle-Chosuk_gate.jpg"
   },
   {
     "id": "gyeongnam-106",
@@ -6056,7 +6139,8 @@
       }
     ],
     "featured": false,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/German_Village_in_South_Korea_03.jpg/960px-German_Village_in_South_Korea_03.jpg"
   },
   {
     "id": "gyeongnam-107",
@@ -6090,7 +6174,8 @@
       }
     ],
     "featured": false,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/%EC%9A%B0%ED%8F%AC%EB%8A%AA_%ED%92%8D%EA%B2%BD_%28Upo_wetlands_scenery%29.jpg/960px-%EC%9A%B0%ED%8F%AC%EB%8A%AA_%ED%92%8D%EA%B2%BD_%28Upo_wetlands_scenery%29.jpg"
   },
   {
     "id": "gyeongnam-108",
@@ -6158,7 +6243,8 @@
       }
     ],
     "featured": false,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Korea-Geoje-Oedo_4073-06.JPG/960px-Korea-Geoje-Oedo_4073-06.JPG"
   },
   {
     "id": "gyeongnam-110",
@@ -6244,7 +6330,8 @@
     "description": "옛 상무대 법정과 영창 등을 복원·재현한 5.18 민주화운동 역사교육 현장이다. 당시 시민군이 수감되었던 공간을 그대로 재현해 전시한다.",
     "nearby": [],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/518_%EC%9E%90%EC%9C%A0%EA%B3%B5%EC%9B%90.jpg/960px-518_%EC%9E%90%EC%9C%A0%EA%B3%B5%EC%9B%90.jpg"
   },
   {
     "id": "gwangju-103",
@@ -6262,7 +6349,8 @@
     "description": "1980년 5.18 민주화운동 희생자들을 안장한 국립묘지이다. 추모탑과 유영봉안소, 민주화운동기록관이 조성되어 있다.",
     "nearby": [],
     "featured": false,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/20250628_May_18th_National_Cemetery_of_Gwangju_Jjw_002.png/960px-20250628_May_18th_National_Cemetery_of_Gwangju_Jjw_002.png"
   },
   {
     "id": "gwangju-104",
@@ -6280,7 +6368,8 @@
     "description": "격년제 국제미술행사인 광주비엔날레를 개최하는 전용 전시관이다. 중외공원 문화시설지구 내에 위치해 국립광주박물관·시립미술관과 인접해 있다.",
     "nearby": [],
     "featured": false,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Gwangju_Biennale_Exhibition.jpg/960px-Gwangju_Biennale_Exhibition.jpg"
   },
   {
     "id": "gwangju-105",
@@ -6334,7 +6423,8 @@
     "description": "청소년과 가족 단위 관람객을 위한 체험형 과학관으로 어린이과학관과 다양한 특별전시를 운영한다.",
     "nearby": [],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/%EA%B5%AD%EB%A6%BD%EA%B4%91%EC%A3%BC%EA%B3%BC%ED%95%99%EA%B4%80_%EB%B3%B8%EA%B4%80.jpg/960px-%EA%B5%AD%EB%A6%BD%EA%B4%91%EC%A3%BC%EA%B3%BC%ED%95%99%EA%B4%80_%EB%B3%B8%EA%B4%80.jpg"
   },
   {
     "id": "gwangju-108",
@@ -6386,7 +6476,8 @@
       }
     ],
     "featured": true,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/%EC%A0%84%EC%A3%BC_%EA%B2%BD%EA%B8%B0%EC%A0%84_%ED%99%8D%EC%82%B4%EB%AC%B8_1.jpg/960px-%EC%A0%84%EC%A3%BC_%EA%B2%BD%EA%B8%B0%EC%A0%84_%ED%99%8D%EC%82%B4%EB%AC%B8_1.jpg"
   },
   {
     "id": "jeonbuk-102",
@@ -6404,7 +6495,8 @@
     "description": "소설 '혼불'의 작가 최명희의 문학 세계를 기리는 문학관이다. 경기전 뒤편 골목길에 자리해 한옥마을 산책 코스에 포함된다.",
     "nearby": [],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/%EC%B5%9C%EB%AA%85%ED%9D%AC_%EB%AC%B8%ED%95%99%EA%B4%80.jpg/960px-%EC%B5%9C%EB%AA%85%ED%9D%AC_%EB%AC%B8%ED%95%99%EA%B4%80.jpg"
   },
   {
     "id": "jeonbuk-103",
@@ -6422,7 +6514,8 @@
     "description": "고려 말 이성계가 왜구를 물리치고 개선하며 잔치를 벌였다는 전설이 전하는 누각이다. 한옥마을 전경을 한눈에 내려다볼 수 있는 전망 명소다.",
     "nearby": [],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Omokdae_20230408_009.jpg/960px-Omokdae_20230408_009.jpg"
   },
   {
     "id": "jeonbuk-104",
@@ -6476,7 +6569,8 @@
     "description": "일제강점기 일본인 상류층 가옥의 모습을 잘 보여주는 국가등록문화유산이다. 영화 '타짜' 촬영지로도 유명하다.",
     "nearby": [],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Japanese-style_House_in_Sinheung-dong%2C_Gunsan_40.jpg/960px-Japanese-style_House_in_Sinheung-dong%2C_Gunsan_40.jpg"
   },
   {
     "id": "jeonbuk-107",
@@ -6494,7 +6588,8 @@
     "description": "춘향전의 무대로 널리 알려진 조선시대 누원이다. 오작교와 연못이 어우러진 전통 정원으로 야간 경관도 유명하다.",
     "nearby": [],
     "featured": true,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Korea-Nawon-Kwanghanlu2.jpg/960px-Korea-Nawon-Kwanghanlu2.jpg"
   },
   {
     "id": "jeonbuk-108",
@@ -6512,7 +6607,8 @@
     "description": "조선시대 왜침에 대비해 쌓은 자연석 성곽으로 모양성이라고도 불린다. 성곽을 따라 도는 답성놀이로도 유명하다.",
     "nearby": [],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/%EA%B3%A0%EC%B0%BD%EC%9D%8D%EC%84%B1%EC%9D%98_%EB%B4%84.jpg/960px-%EA%B3%A0%EC%B0%BD%EC%9D%8D%EC%84%B1%EC%9D%98_%EB%B4%84.jpg"
   },
   {
     "id": "jeonbuk-109",
@@ -6530,7 +6626,8 @@
     "description": "고려말 조선초 창건된 유교 교육기관으로 은행나무가 우거진 경내가 아름답다. 한옥마을 관광 코스에서 빠지지 않는 장소다.",
     "nearby": [],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Daeseongjeon_of_Jeonju_Hyanggyo.jpg/960px-Daeseongjeon_of_Jeonju_Hyanggyo.jpg"
   },
   {
     "id": "jeonbuk-110",
@@ -6548,7 +6645,8 @@
     "description": "조선시대 전주읍성의 남쪽 문으로 현재까지 남아 있는 유일한 성문이다. 보물로 지정된 전주의 상징적 건축물이다.",
     "nearby": [],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Jeonju_Pungnam-mun.jpg/960px-Jeonju_Pungnam-mun.jpg"
   },
   {
     "id": "jeonnam-101",
@@ -6566,7 +6664,8 @@
     "description": "국내 최초의 국가정원으로 다양한 세계 정원과 순천만습지가 인접해 있다. 스카이큐브를 타고 습지까지 이동할 수 있다.",
     "nearby": [],
     "featured": true,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Panorama_of_International_Garden_Exposition_Suncheon_Bay_Korea_2013.jpg"
   },
   {
     "id": "jeonnam-102",
@@ -6600,7 +6699,8 @@
       }
     ],
     "featured": true,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Yeosu_Odongdo_20180929_002.jpg/960px-Yeosu_Odongdo_20180929_002.jpg"
   },
   {
     "id": "jeonnam-103",
@@ -6634,7 +6734,8 @@
       }
     ],
     "featured": true,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Damyang_Jungnogwon_%281%29.jpg/960px-Damyang_Jungnogwon_%281%29.jpg"
   },
   {
     "id": "jeonnam-104",
@@ -6652,7 +6753,8 @@
     "description": "계단식으로 펼쳐진 녹차밭이 남해 바다까지 이어지는 국내 최대 규모 녹차 관광지다. 영화 촬영지로도 잘 알려져 있다.",
     "nearby": [],
     "featured": true,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/%EB%8C%80%ED%95%9C%EB%8B%A4%EC%9B%90_%EC%B0%A8%EB%B0%AD.JPG/960px-%EB%8C%80%ED%95%9C%EB%8B%A4%EC%9B%90_%EC%B0%A8%EB%B0%AD.JPG"
   },
   {
     "id": "jeonnam-105",
@@ -6670,7 +6772,8 @@
     "description": "다산 정약용이 유배 생활 중 10여 년간 머물며 목민심서 등을 저술한 곳이다. 동백숲으로 둘러싸인 산길을 따라 오르는 코스로 유명하다.",
     "nearby": [],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Dasanchodang_%28%E8%8C%B6%E5%B1%B1%E8%8D%89%E5%A0%82%29_-_panoramio.jpg/960px-Dasanchodang_%28%E8%8C%B6%E5%B1%B1%E8%8D%89%E5%A0%82%29_-_panoramio.jpg"
   },
   {
     "id": "jeonnam-106",
@@ -6688,7 +6791,8 @@
     "description": "유네스코 세계유산에 등재된 천년고찰로 두륜산 자락에 자리한다. 장춘숲길이라 불리는 아름다운 진입로로도 유명하다.",
     "nearby": [],
     "featured": false,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Daeheungsa_11-03896.JPG/960px-Daeheungsa_11-03896.JPG"
   },
   {
     "id": "jeonnam-107",
@@ -6706,7 +6810,8 @@
     "description": "실제 주민들이 거주하는 조선시대 읍성 마을로 CNN이 선정한 관광지이기도 하다. 초가집과 성곽이 옛 모습 그대로 보존되어 있다.",
     "nearby": [],
     "featured": false,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/%EB%82%99%EC%95%88%EC%9D%8D%EC%84%B1%EC%A0%84%EA%B2%BD.jpg/960px-%EB%82%99%EC%95%88%EC%9D%8D%EC%84%B1%EC%A0%84%EA%B2%BD.jpg"
   },
   {
     "id": "jeonnam-108",
@@ -6724,7 +6829,8 @@
     "description": "김대중 전 대통령의 노벨평화상 수상과 생애를 조명하는 기념관이다. 목포 유달산 인근 갓바위 문화의거리와 함께 둘러보기 좋다.",
     "nearby": [],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Kim_Dae-jung_presidential_portrait.jpg/960px-Kim_Dae-jung_presidential_portrait.jpg"
   },
   {
     "id": "jeonnam-109",
@@ -6742,7 +6848,8 @@
     "description": "갓을 쓴 사람 형상의 기암을 바다 위 보행교를 따라 감상할 수 있는 목포의 명소다. 김대중노벨평화상기념관과 인접해 있다.",
     "nearby": [],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Mokpo_Music_Fountain.jpg/960px-Mokpo_Music_Fountain.jpg"
   },
   {
     "id": "jeonnam-110",
@@ -6760,7 +6867,8 @@
     "description": "신라시대 창건된 사찰로 바위 절벽 위에 자리해 일출 명소로 유명하다. 좁은 바위틈을 지나는 길이 독특한 경관을 이룬다.",
     "nearby": [],
     "featured": false,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/The_Namhae_sea_through_the_Temple_of_Hyangiram_20091205.JPG/960px-The_Namhae_sea_through_the_Temple_of_Hyangiram_20091205.JPG"
   },
   {
     "id": "gyeongbuk-101",
@@ -6789,7 +6897,8 @@
       }
     ],
     "featured": true,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Cheomseongdae-1.jpg/960px-Cheomseongdae-1.jpg"
   },
   {
     "id": "gyeongbuk-102",
@@ -6813,7 +6922,8 @@
       }
     ],
     "featured": true,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/%EB%8F%99%EA%B6%81%EA%B3%BC_%EC%9B%94%EC%A7%80.jpg/960px-%EB%8F%99%EA%B6%81%EA%B3%BC_%EC%9B%94%EC%A7%80.jpg"
   },
   {
     "id": "gyeongbuk-103",
@@ -6842,7 +6952,8 @@
       }
     ],
     "featured": true,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/%EB%8C%80%EB%A6%89%EC%9B%90.jpg/960px-%EB%8C%80%EB%A6%89%EC%9B%90.jpg"
   },
   {
     "id": "gyeongbuk-104",
@@ -6866,7 +6977,8 @@
       }
     ],
     "featured": true,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Front_view_of_Seokguram_from_front_chamber.jpg/960px-Front_view_of_Seokguram_from_front_chamber.jpg"
   },
   {
     "id": "gyeongbuk-105",
@@ -6884,7 +6996,8 @@
     "description": "600년 역사의 한국 최대 규모 전통 씨족마을로 유네스코 세계문화유산에 등재된 양반가옥과 초가가 함께 남아 있다.",
     "nearby": [],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Yangdong_Village_20240113_047.jpg/960px-Yangdong_Village_20240113_047.jpg"
   },
   {
     "id": "gyeongbuk-106",
@@ -6908,7 +7021,8 @@
       }
     ],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Korea-Gyeongju-Bunhwangsa-Three_story_stone_pagoda-01.jpg/960px-Korea-Gyeongju-Bunhwangsa-Three_story_stone_pagoda-01.jpg"
   },
   {
     "id": "gyeongbuk-107",
@@ -6926,7 +7040,8 @@
     "description": "한국화 거장 소산 박대성 화백의 작품을 상설 전시하는 경주 대표 공립 미술관.",
     "nearby": [],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Solgeo_Art_Museum%2C_Gyeongju_on_December_25th%2C_2018.jpg/960px-Solgeo_Art_Museum%2C_Gyeongju_on_December_25th%2C_2018.jpg"
   },
   {
     "id": "gyeongbuk-108",
@@ -6944,7 +7059,8 @@
     "description": "풍산 류씨 동성 마을로 낙동강이 마을을 감싸 도는 지형이 특징인 유네스코 세계문화유산 전통마을.",
     "nearby": [],
     "featured": true,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Korea-Andong-Hahoe.Village-02.jpg/960px-Korea-Andong-Hahoe.Village-02.jpg"
   },
   {
     "id": "gyeongbuk-109",
@@ -6962,7 +7078,8 @@
     "description": "신라 문무왕 때 창건된 고찰로 현존 최고(最古) 목조건축인 극락전이 있는 유네스코 세계유산 산사.",
     "nearby": [],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Korea-Andong-Bongjeongsa_3040-06_Geungnakjeon.JPG/960px-Korea-Andong-Bongjeongsa_3040-06_Geungnakjeon.JPG"
   },
   {
     "id": "gyeongbuk-110",
@@ -6980,7 +7097,8 @@
     "description": "신라 의상대사가 창건한 화엄종 사찰로 국보 무량수전과 소조여래좌상이 있는 유네스코 세계문화유산.",
     "nearby": [],
     "featured": true,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/%EB%B6%80%EC%84%9D%EC%82%AC_%EB%AC%B4%EB%9F%89%EC%88%98%EC%A0%84.jpg/960px-%EB%B6%80%EC%84%9D%EC%82%AC_%EB%AC%B4%EB%9F%89%EC%88%98%EC%A0%84.jpg"
   },
   {
     "id": "gyeongbuk-111",
@@ -6998,7 +7116,8 @@
     "description": "1543년 세워진 우리나라 최초의 사액서원으로 유네스코 세계문화유산 '한국의 서원'에 포함된다.",
     "nearby": [],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Sosuseowon.jpg/960px-Sosuseowon.jpg"
   },
   {
     "id": "gyeongbuk-112",
@@ -7016,7 +7135,8 @@
     "description": "조선시대 영남과 한양을 잇던 옛길이자 관문으로, 3개의 관문과 KBS 사극 오픈세트장이 있는 자연·역사 공원.",
     "nearby": [],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Saejae_third_gate_backside.jpg/960px-Saejae_third_gate_backside.jpg"
   },
   {
     "id": "gyeongbuk-113",
@@ -7034,7 +7154,8 @@
     "description": "신라시대 창건된 비구니 승가대학이 있는 사찰로, 처진소나무(천연기념물) 등 고찰의 정취가 깊다.",
     "nearby": [],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/%EC%9A%B4%EB%AC%B8%EC%82%AC_%EB%8C%80%EC%9B%85%EC%A0%84.jpg/960px-%EC%9A%B4%EB%AC%B8%EC%82%AC_%EB%8C%80%EC%9B%85%EC%A0%84.jpg"
   },
   {
     "id": "gyeongbuk-114",
@@ -7052,7 +7173,8 @@
     "description": "한반도 최동단 해맞이 명소로 '상생의 손' 조형물과 국내 최대 규모 등대박물관이 자리한다.",
     "nearby": [],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/New_millennium_park.jpg/960px-New_millennium_park.jpg"
   },
   {
     "id": "jeju-101",
@@ -7070,7 +7192,8 @@
     "description": "약 5천 년 전 수성화산 폭발로 형성된 응회구로 유네스코 세계자연유산이자 제주 대표 일출 명소.",
     "nearby": [],
     "featured": true,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/%EC%84%B1%EC%82%B0%EC%9D%BC%EC%B6%9C%EB%B4%89_%EC%B2%9C%EC%97%B0%EB%B3%B4%ED%98%B8%EA%B5%AC%EC%97%AD_2019%EB%85%84_%EC%B4%AC%EC%98%81%28%EC%B6%9C%EC%B2%98_%EB%AC%B8%ED%99%94%EC%9E%AC%EC%B2%AD_%EB%8C%80%EB%B3%80%EC%9D%B8%EC%8B%A4%29.jpg/960px-%EC%84%B1%EC%82%B0%EC%9D%BC%EC%B6%9C%EB%B4%89_%EC%B2%9C%EC%97%B0%EB%B3%B4%ED%98%B8%EA%B5%AC%EC%97%AD_2019%EB%85%84_%EC%B4%AC%EC%98%81%28%EC%B6%9C%EC%B2%98_%EB%AC%B8%ED%99%94%EC%9E%AC%EC%B2%AD_%EB%8C%80%EB%B3%80%EC%9D%B8%EC%8B%A4%29.jpg"
   },
   {
     "id": "jeju-102",
@@ -7088,7 +7211,8 @@
     "description": "세계에서 가장 긴 용암동굴 중 하나로, 제2입구를 통해 약 1km 구간이 일반에 공개된 유네스코 세계자연유산.",
     "nearby": [],
     "featured": true,
-    "popularity": "national"
+    "popularity": "national",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/%EB%A7%8C%EC%9E%A5%EA%B5%B4_%2824%29.jpg/960px-%EB%A7%8C%EC%9E%A5%EA%B5%B4_%2824%29.jpg"
   },
   {
     "id": "jeju-103",
@@ -7124,7 +7248,8 @@
     "description": "2001년 개관한 국내 최초의 차 박물관으로, 차 문화 전시와 녹차밭 풍경, 티 카페를 함께 즐길 수 있다.",
     "nearby": [],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/O%27Sulloc_Tea_Museum.jpg/960px-O%27Sulloc_Tea_Museum.jpg"
   },
   {
     "id": "jeju-105",
@@ -7160,7 +7285,8 @@
     "description": "약 80만 년 전 형성된 종상화산으로 산방굴사와 용머리해안을 함께 둘러볼 수 있는 서귀포 대표 지질명소.",
     "nearby": [],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Sanbangsan_%285983281424%29.jpg/960px-Sanbangsan_%285983281424%29.jpg"
   },
   {
     "id": "jeju-107",
@@ -7178,7 +7304,8 @@
     "description": "조선시대 정의현 도읍지였던 마을로 옛 민가·향교·돌하르방 등 유·무형 문화유산이 보존된 국가민속문화유산.",
     "nearby": [],
     "featured": false,
-    "popularity": "regional"
+    "popularity": "regional",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Seongeup_Historic_Village.jpg/960px-Seongeup_Historic_Village.jpg"
   },
   {
     "id": "jeju-108",
